@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ROOT>
+  <table id="1" Function="1" Function_name="主界面-英雄" Function_lv="1" Function_battle_id="#" open_before_type="1" message_id="#" desc="ok"  />
+  <table id="2" Function="1" Function_name="主界面-邪神" Function_lv="1" Function_battle_id="10102" open_before_type="1" message_id="11006" desc="ok"  />
+  <table id="3" Function="1" Function_name="主界面-背包" Function_lv="1" Function_battle_id="#" open_before_type="1" message_id="#" desc="ok"  />
+  <table id="4" Function="1" Function_name="主界面-任务" Function_lv="1" Function_battle_id="10102" open_before_type="1" message_id="13001" desc="ok"  />
+  <table id="5" Function="1" Function_name="主界面-抽卡" Function_lv="1" Function_battle_id="#" open_before_type="1" message_id="#" desc="ok"  />
+  <table id="6" Function="1" Function_name="主界面-征战" Function_lv="1" Function_battle_id="#" open_before_type="1" message_id="#" desc="ok"  />
+  <table id="7" Function="1" Function_name="主界面-好友" Function_lv="9" Function_battle_id="#" open_before_type="1" message_id="22001" desc="ok"  />
+  <table id="8" Function="1" Function_name="主界面-竞技" Function_lv="10" Function_battle_id="#" open_before_type="1" message_id="19001" desc="ok"  />
+  <table id="9" Function="1" Function_name="主界面-公会" Function_lv="38" Function_battle_id="#" open_before_type="1" message_id="21001" desc="ok"  />
+  <table id="10" Function="1" Function_name="主界面-商店" Function_lv="8" Function_battle_id="#" open_before_type="1" message_id="25001" desc="ok"  />
+  <table id="11" Function="1" Function_name="主界面-AR" Function_lv="1" Function_battle_id="10102" open_before_type="2" message_id="11006" desc="ok"  />
+  <table id="12" Function="1" Function_name="主界面-聊天" Function_lv="9" Function_battle_id="#" open_before_type="1" message_id="27002" desc="ok"  />
+  <table id="13" Function="1" Function_name="主界面-签到" Function_lv="1" Function_battle_id="#" open_before_type="1" message_id="28001" desc="暂时无功能"  />
+  <table id="14" Function="1" Function_name="主界面-邮件" Function_lv="1" Function_battle_id="#" open_before_type="1" message_id="23001" desc="ok"  />
+  <table id="15" Function="1" Function_name="主界面-活动" Function_lv="1" Function_battle_id="#" open_before_type="1" message_id="24001" desc="暂时无功能"  />
+  <table id="16" Function="1" Function_name="主界面-充值" Function_lv="1" Function_battle_id="#" open_before_type="1" message_id="#" desc="暂时无功能"  />
+  <table id="17" Function="1" Function_name="征战-主线副本" Function_lv="1" Function_battle_id="#" open_before_type="1" message_id="#" desc="ok"  />
+  <table id="18" Function="1" Function_name="征战-精英副本" Function_lv="99" Function_battle_id="#" open_before_type="1" message_id="1007" desc="ok"  />
+  <table id="19" Function="1" Function_name="征战-噩梦副本" Function_lv="99" Function_battle_id="#" open_before_type="1" message_id="1008" desc="ok"  />
+  <table id="20" Function="1" Function_name="征战-深渊BOSS" Function_lv="12" Function_battle_id="#" open_before_type="1" message_id="16001" desc="点击没有提示"  />
+  <table id="21" Function="1" Function_name="征战-海底宝藏" Function_lv="99" Function_battle_id="#" open_before_type="1" message_id="29001" desc="点击没有提示"  />
+  <table id="22" Function="1" Function_name="征战-时空远征" Function_lv="99" Function_battle_id="#" open_before_type="1" message_id="17001" desc="点击没有提示"  />
+  <table id="23" Function="1" Function_name="竞技-竞技场" Function_lv="10" Function_battle_id="#" open_before_type="1" message_id="19001" desc="ok"  />
+  <table id="24" Function="1" Function_name="竞技-巅峰对决" Function_lv="30" Function_battle_id="#" open_before_type="1" message_id="20001" desc="ok"  />
+  <table id="25" Function="1" Function_name="关卡详情-扫荡1次" Function_lv="1" Function_battle_id="#" open_before_type="1" message_id="#" desc="ok"  />
+  <table id="26" Function="1" Function_name="关卡详情-扫荡10次" Function_lv="1" Function_battle_id="#" open_before_type="1" message_id="#" desc="ok"  />
+  <table id="27" Function="1" Function_name="战斗中-手动和自动" Function_lv="1" Function_battle_id="#" open_before_type="0" message_id="#" desc="ok"  />
+  <table id="28" Function="1" Function_name="排行榜-竞技场" Function_lv="1" Function_battle_id="#" open_before_type="1" message_id="#" desc="ok"  />
+  <table id="29" Function="1" Function_name="排行榜-巅峰对决" Function_lv="1" Function_battle_id="#" open_before_type="1" message_id="#" desc="ok"  />
+  <table id="30" Function="1" Function_name="排行榜-世界BOSS" Function_lv="12" Function_battle_id="#" open_before_type="0" message_id="#" desc="ok"  />
+  <table id="31" Function="1" Function_name="战斗内暂停键" Function_lv="1" Function_battle_id="10103" open_before_type="1" message_id="#" desc="ok"  />
+  <table id="32" Function="1" Function_name="公会战" Function_lv="99" Function_battle_id="#" open_before_type="1" message_id="21030" desc="新添加"  />
+</ROOT>

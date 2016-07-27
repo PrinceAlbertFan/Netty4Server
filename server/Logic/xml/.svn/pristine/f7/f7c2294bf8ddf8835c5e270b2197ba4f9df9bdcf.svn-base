@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ROOT>
+  <table id="1" key="wldjxs" value="10" note="物理等级系数=10"  />
+  <table id="2" key="wuhjjmcs" value="100" note="物理护甲减免常数=100"  />
+  <table id="3" key="mfdjxs" value="10" note="魔法等级系数=10"  />
+  <table id="4" key="mfkxjmcs" value="100" note="魔法抗性减免常数=100"  />
+  <table id="5" key="jndjsjxs" value="0.03" note="技能等级衰减系数=0.03"  />
+  <table id="6" key="wlbjhjxs" value="1" note="物理暴击护甲系数=1"  />
+  <table id="7" key="wlbjjmcs" value="200" note="物理暴击减免常数=200"  />
+  <table id="8" key="wlbjdjcxs" value="20" note="物理暴击等级差系数=20"  />
+  <table id="9" key="mfbjkxxs" value="1" note="魔法暴击抗性系数=1"  />
+  <table id="10" key="mfbjjmcs" value="200" note="魔法暴击减免常数=200"  />
+  <table id="11" key="mfbjdjcxs" value="20" note="魔法暴击等级差系数=20"  />
+  <table id="12" key="sbsx" value="0.8" note="闪避上限=0.8"  />
+  <table id="13" key="sbdjcxs" value="3" note="闪避等级差系数=3"  />
+  <table id="14" key="sbjmxs" value="100" note="闪避减免常数=100"  />
+  <table id="15" key="xxsx" value="0.7" note="吸血上限=0.7"  />
+  <table id="16" key="xxcs" value="100" note="吸血减免常数=100"  />
+  <table id="17" key="bjshbs" value="2" note="暴击伤害倍数=2"  />
+  <table id="18" key="battle_time" value="120" note="每场对战时间上限=120秒"  />
+  <table id="19" key="kill_energy" value="380" note="击杀获得能量值=380点"  />
+  <table id="20" key="battle_lose_hp2power" value="0.5" note="生命百分比转换能量比例"  />
+  <table id="21" key="show_action_hurt" value="0.1" note="播放受伤动作血量"  />
+</ROOT>

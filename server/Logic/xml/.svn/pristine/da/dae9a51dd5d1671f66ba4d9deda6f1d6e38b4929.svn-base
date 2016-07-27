@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ROOT>
+  <table id="1" lv="1" icon="hero_icon_202_1" desc="贞德"  />
+  <table id="2" lv="1" icon="hero_icon_204_1" desc="后羿"  />
+  <table id="3" lv="30" icon="hero_icon_101_1" desc="斯巴达"  />
+  <table id="4" lv="30" icon="hero_icon_301_1" desc="貂蝉"  />
+  <table id="5" lv="30" icon="hero_icon_304_1" desc="法老王"  />
+  <table id="6" lv="50" icon="hero_icon_307_1" desc="海伦"  />
+  <table id="7" lv="50" icon="hero_icon_302_1" desc="诸葛亮"  />
+  <table id="8" lv="70" icon="hero_icon_205_1" desc="花木兰"  />
+  <table id="9" lv="70" icon="hero_icon_102_1" desc="亚瑟王"  />
+  <table id="10" lv="80" icon="hero_icon_308_1" desc="埃及艳后"  />
+</ROOT>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ROOT>
+  <table id="1" type="1" icon="chapter_icon_001" desc="关卡" battle_id="1" battle_param1="0.5" battle_param2="0.7"  />
+  <table id="2" type="2" icon="Expedtion_Reward_Small" desc="宝箱" battle_id="#" battle_param1="#" battle_param2="#"  />
+  <table id="3" type="1" icon="chapter_icon_007" desc="关卡" battle_id="2" battle_param1="0.65" battle_param2="0.8500000000000001"  />
+  <table id="4" type="2" icon="Expedtion_Reward_Small" desc="宝箱" battle_id="#" battle_param1="#" battle_param2="#"  />
+  <table id="5" type="1" icon="chapter_icon_002" desc="关卡" battle_id="3" battle_param1="0.7" battle_param2="0.8999999999999999"  />
+  <table id="6" type="2" icon="Expedition_Reward_Big" desc="宝箱" battle_id="#" battle_param1="#" battle_param2="#"  />
+  <table id="7" type="1" icon="chapter_icon_008" desc="关卡" battle_id="4" battle_param1="0.75" battle_param2="0.95"  />
+  <table id="8" type="2" icon="Expedtion_Reward_Small" desc="宝箱" battle_id="#" battle_param1="#" battle_param2="#"  />
+  <table id="9" type="1" icon="chapter_icon_003" desc="关卡" battle_id="5" battle_param1="0.8" battle_param2="1"  />
+  <table id="10" type="2" icon="Expedtion_Reward_Small" desc="宝箱" battle_id="#" battle_param1="#" battle_param2="#"  />
+  <table id="11" type="1" icon="chapter_icon_009" desc="关卡" battle_id="6" battle_param1="0.9" battle_param2="1.1"  />
+  <table id="12" type="2" icon="Expedition_Reward_Big" desc="宝箱" battle_id="#" battle_param1="#" battle_param2="#"  />
+  <table id="13" type="1" icon="chapter_icon_004" desc="关卡" battle_id="7" battle_param1="0.95" battle_param2="1.15"  />
+  <table id="14" type="2" icon="Expedtion_Reward_Small" desc="宝箱" battle_id="#" battle_param1="#" battle_param2="#"  />
+  <table id="15" type="1" icon="chapter_icon_010" desc="关卡" battle_id="8" battle_param1="1" battle_param2="1.2"  />
+  <table id="16" type="2" icon="Expedtion_Reward_Small" desc="宝箱" battle_id="#" battle_param1="#" battle_param2="#"  />
+  <table id="17" type="1" icon="chapter_icon_005" desc="关卡" battle_id="9" battle_param1="1.05" battle_param2="1.25"  />
+  <table id="18" type="2" icon="Expedition_Reward_Big" desc="宝箱" battle_id="#" battle_param1="#" battle_param2="#"  />
+  <table id="19" type="1" icon="chapter_icon_011" desc="关卡" battle_id="10" battle_param1="1.1" battle_param2="1.3"  />
+  <table id="20" type="2" icon="Expedtion_Reward_Small" desc="宝箱" battle_id="#" battle_param1="#" battle_param2="#"  />
+  <table id="21" type="1" icon="chapter_icon_006" desc="关卡" battle_id="11" battle_param1="1.15" battle_param2="1.3499999999999999"  />
+  <table id="22" type="2" icon="Expedtion_Reward_Small" desc="宝箱" battle_id="#" battle_param1="#" battle_param2="#"  />
+  <table id="23" type="1" icon="chapter_icon_012" desc="关卡" battle_id="12" battle_param1="1.2" battle_param2="1.4"  />
+  <table id="24" type="2" icon="Expedition_Reward_Big" desc="宝箱" battle_id="#" battle_param1="#" battle_param2="#"  />
+</ROOT>

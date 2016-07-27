@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ROOT>
+  <table to_type="2" to_id="101" to_name="斯巴达" for_id="10101" for_num="10"  />
+  <table to_type="2" to_id="102" to_name="亚瑟王" for_id="10102" for_num="10"  />
+  <table to_type="2" to_id="103" to_name="李元霸" for_id="10103" for_num="10"  />
+  <table to_type="2" to_id="104" to_name="鲁智深" for_id="10104" for_num="10"  />
+  <table to_type="2" to_id="105" to_name="亚历山大" for_id="10105" for_num="20"  />
+  <table to_type="2" to_id="106" to_name="织田信长" for_id="10106" for_num="10"  />
+  <table to_type="2" to_id="201" to_name="荆轲" for_id="10201" for_num="10"  />
+  <table to_type="2" to_id="202" to_name="贞德" for_id="10202" for_num="10"  />
+  <table to_type="2" to_id="203" to_name="罗宾汉" for_id="10203" for_num="10"  />
+  <table to_type="2" to_id="204" to_name="后羿" for_id="10204" for_num="20"  />
+  <table to_type="2" to_id="205" to_name="花木兰" for_id="10205" for_num="10"  />
+  <table to_type="2" to_id="206" to_name="韩信" for_id="10206" for_num="10"  />
+  <table to_type="2" to_id="207" to_name="鬼谷子" for_id="10207" for_num="10"  />
+  <table to_type="2" to_id="208" to_name="秦始皇" for_id="10208" for_num="10"  />
+  <table to_type="2" to_id="301" to_name="貂蝉" for_id="10301" for_num="10"  />
+  <table to_type="2" to_id="302" to_name="诸葛亮" for_id="10302" for_num="20"  />
+  <table to_type="2" to_id="303" to_name="左慈" for_id="10303" for_num="10"  />
+  <table to_type="2" to_id="304" to_name="法老王" for_id="10304" for_num="10"  />
+  <table to_type="2" to_id="305" to_name="凯撒" for_id="10305" for_num="10"  />
+  <table to_type="2" to_id="306" to_name="扁鹊" for_id="10306" for_num="10"  />
+  <table to_type="2" to_id="307" to_name="海伦" for_id="10307" for_num="20"  />
+  <table to_type="2" to_id="308" to_name="埃及艳后" for_id="10308" for_num="10"  />
+  <table to_type="2" to_id="309" to_name="虞美人" for_id="10309" for_num="10"  />
+  <table to_type="2" to_id="310" to_name="血腥玛丽" for_id="10310" for_num="10"  />
+</ROOT>

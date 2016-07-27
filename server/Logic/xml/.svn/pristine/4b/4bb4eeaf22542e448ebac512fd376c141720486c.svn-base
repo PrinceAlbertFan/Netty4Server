@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ROOT>
+  <table id="1" desc="网络系统错误" title="#" text="网络错误，请再次尝试" message_type="1"  />
+  <table id="2" desc="服务器错误" title="#" text="服务器错误，请再次尝试" message_type="1"  />
+  <table id="3" desc="客户端错误" title="#" text="操作错误，请再次尝试" message_type="1"  />
+  <table id="1001" desc="阵容不满4人" title="提示" text="上阵英雄不满4人，是否继续？" message_type="6"  />
+  <table id="1002" desc="阵容无人" title="#" text="上阵没有英雄无法战斗" message_type="2"  />
+  <table id="1003" desc="体力到达上限" title="#" text="体力已经到达上限，请先消耗当前体力值" message_type="1"  />
+  <table id="1004" desc="英雄列表-英雄暂未开放" title="#" text="该英雄暂未开放，敬请期待" message_type="1"  />
+  <table id="1005" desc="关卡-关卡未开启" title="#" text="关卡未开启" message_type="1"  />
+  <table id="1006" desc="关卡-等级不足" title="#" text="无法进入，战队等级{0}开启" message_type="1"  />
+  <table id="1007" desc="精英副本开启" title="#" text="未开启，战队15级后开启" message_type="1"  />
+  <table id="1008" desc="噩梦副本开启" title="#" text="未开启，战队25级后开启" message_type="1"  />
+  <table id="10001" desc="英雄-英雄暂未开放" title="#" text="该英雄暂未开放" message_type="1"  />
+  <table id="10002" desc="英雄-升级-到达上限" title="#" text="英雄等级已到达上限" message_type="1"  />
+  <table id="10003" desc="英雄-升星-到达上限" title="#" text="英雄星级已到达上限" message_type="1"  />
+  <table id="10004" desc="英雄-升星-碎片不足" title="#" text="英雄魂石不足，无法升星" message_type="1"  />
+  <table id="10005" desc="英雄-一键装备-操作成功" title="#" text="装备成功" message_type="2"  />
+  <table id="10006" desc="英雄-技能升级-上限" title="#" text="技能等级到达上限，无法升级" message_type="1"  />
+  <table id="10007" desc="英雄-技能升级-金币不足" title="#" text="无法升级，金币不足" message_type="1"  />
+  <table id="10008" desc="英雄-技能升级-技能点不足-购买" title="提示" text="没有足够的技能点，购买10点技能点需要花费{0}钻石，是否购买？" message_type="6"  />
+  <table id="10009" desc="英雄-一键装备-操作成功后再次" title="#" text="无法装备，请检查英雄等级或物品数量" message_type="2"  />
+  <table id="10010" desc="英雄-技能升级-技能点不足" title="#" text="技能点不足，无法升级" message_type="1"  />
+  <table id="10011" desc="英雄-升星-金币不足" title="#" text="金币不足，无法升星" message_type="1"  />
+  <table id="10012" desc="英雄-装备-装备数量不足" title="#" text="无法装备，请先获取该装备" message_type="1"  />
+  <table id="10013" desc="英雄-装备-合成材料不足" title="#" text="材料不足，请先合成或收集材料" message_type="1"  />
+  <table id="10014" desc="英雄-未召唤-材料已满" title="提示" text="是否召唤该英雄？" message_type="6"  />
+  <table id="10015" desc="英雄-装备-英雄等级不足" title="#" text="英雄等级不足，无法装备" message_type="1"  />
+  <table id="10016" desc="英雄-装备-合成完成" title="#" text="合成成功，获得：{0}" message_type="2"  />
+  <table id="10017" desc="英雄-进阶" title="提示" text="进阶仅保留装备原有属性，已强化费用将返还部分。是否进阶？" message_type="6"  />
+  <table id="10018" desc="英雄-装备强化，金币不足" title="#" text="金币不足，无法强化" message_type="1"  />
+  <table id="11001" desc="邪神-召唤" title="#" text="邪神碎片不足，无法召唤" message_type="1"  />
+  <table id="11002" desc="邪神-升星" title="#" text="邪神碎片不足，无法升星" message_type="1"  />
+  <table id="11003" desc="邪神-升级-金币不足" title="#" text="无法升级，金币不足" message_type="1"  />
+  <table id="11004" desc="邪神-升级-邪灵不足" title="#" text="无法升级，邪灵不足" message_type="1"  />
+  <table id="11005" desc="邪神-升级-到达上限" title="#" text="邪神等级已到达上限，请提升队伍等级" message_type="1"  />
+  <table id="11006" desc="邪神-功能开启" title="#" text="未开启，通关关卡1-3后开启" message_type="1"  />
+  <table id="11007" desc="邪神-邪神暂未开放" title="#" text="该邪神暂未开放，敬请期待" message_type="1"  />
+  <table id="11008" desc="邪神心情" title="#" text="邪神{0}获得心情值：{0}" message_type="3"  />
+  <table id="11009" desc="邪神心情" title="#" text="邪神心情值已经达到上限" message_type="1"  />
+  <table id="12001" desc="背包-物品出售" title="#" text="出售成功" message_type="2"  />
+  <table id="13001" desc="任务-任务系统未开启" title="#" text="未开启，通关关卡1-3后开启" message_type="1"  />
+  <table id="14001" desc="抽卡-金币不足" title="提示" text="金币不足，是否前往点金石兑换金币？" message_type="6"  />
+  <table id="14002" desc="抽卡-钻石不足" title="提示" text="钻石不足，是否前往充值？" message_type="6"  />
+  <table id="15001" desc="关卡-体力不足-购买体力" title="提示" text="体力不足，无法进入战斗，购买120点体力需要花费{0}钻石（今日已购买{0}次），是否购买？" message_type="6"  />
+  <table id="15002" desc="关卡-体力不足-购买体力到达上限" title="提示" text="体力不足，无法进入战斗，今日购买次数已用完（今日已购买{0}次），可提升VIP等级增加每日次数。" message_type="3"  />
+  <table id="15003" desc="关卡-次数不足-重置副本" title="提示" text="次数不足，无法进入战斗，重置1次将话费{0}钻石（今日已购买{0}次），是否重置？" message_type="6"  />
+  <table id="15004" desc="关卡-次数不足-重置副本到达上限" title="提示" text="次数不足，无法进入战斗，今日重置次数已用完（今日已购买{0}次），可提升VIP等级增加每日次数。" message_type="3"  />
+  <table id="15005" desc="关卡-扫荡-扫荡券不足-扫荡1次" title="提示" text="扫荡券不足，无法进入战斗，扫荡1次将花费1钻石，是否购买？" message_type="6"  />
+  <table id="15006" desc="关卡-扫荡-扫荡券不足-扫荡N次" title="提示" text="扫荡券不足，无法进入战斗，扫荡{0}次将花费{0}钻石，是否购买？" message_type="6"  />
+  <table id="15007" desc="关卡-星级奖励-未领取" title="#" text="达到{0}星才能领取" message_type="1"  />
+  <table id="16001" desc="征战-深渊BOSS" title="#" text="功能未开放，敬请期待！" message_type="1"  />
+  <table id="16002" desc="世界BOSS-未达到开放等级" title="#" text="暂未达到系统开放等级" message_type="1"  />
+  <table id="16003" desc="世界BOSS-购买挑战次数" title="提示" text="是否使用{0}钻石重置挑战次数？" message_type="6"  />
+  <table id="16004" desc="世界BOSS-不在开放时间" title="#" text="系统暂未开放" message_type="1"  />
+  <table id="16005" desc="世界BOSS-好友追杀次数使用完毕" title="#" text="今日追杀次数使用完毕" message_type="1"  />
+  <table id="17001" desc="征战-海底宝藏" title="#" text="功能未开放，敬请期待！" message_type="1"  />
+  <table id="18001" desc="征战-时空远征" title="#" text="功能未开放，敬请期待！" message_type="1"  />
+  <table id="18002" desc="远征-重置" title="远征重置" text="将重置远征进度，从新开始战斗
+是否重置？" message_type="6"  />
+  <table id="18003" desc="远征-重置" title="#" text="重置成功" message_type="2"  />
+  <table id="18004" desc="远征-重置" title="#" text="无法重置，无重置次数" message_type="2"  />
+  <table id="19001" desc="竞技场" title="#" text="未开启，战队14级开启" message_type="1"  />
+  <table id="19002" desc="竞技场-CD时间重置" title="提示" text="是否使用{0}钻石重置战斗等待时间？" message_type="6"  />
+  <table id="19003" desc="竞技场-挑战次数购买" title="提示" text="是否使用{0}钻石重置挑战次数？" message_type="6"  />
+  <table id="19004" desc="竞技场-我方进攻阵容为空" title="#" text="请选择上阵英雄！" message_type="1"  />
+  <table id="20001" desc="巅峰对决" title="#" text="未开启，战队30级开启" message_type="1"  />
+  <table id="20002" desc="巅峰对决-挑战次数不足" title="#" text="今日挑战次数已用完，明日再战" message_type="3"  />
+  <table id="20003" desc="巅峰对决-匹配对手" title="#" text="现在退出，将会失败，要退出么" message_type="6"  />
+  <table id="21001" desc="公会" title="#" text="公会未开启，战队38级开启" message_type="1"  />
+  <table id="21002" desc="公会-转让会长" title="提示" text="是否将会长转让给{0}？" message_type="6"  />
+  <table id="21003" desc="公会-申请-需要同意" title="提示" text="申请已发出，请等待会长或副会同意" message_type="2"  />
+  <table id="21004" desc="公会-申请-任何人可加" title="提示" text="成功加入{0}公会" message_type="2"  />
+  <table id="21005" desc="公会-申请-拒绝任何人加入" title="提示" text="该公会拒绝任何人申请加入" message_type="2"  />
+  <table id="21006" desc="公会-查找" title="提示" text="公会不存在，请核对公会ID" message_type="3"  />
+  <table id="21007" desc="公会-创建-创建失败" title="提示" text="该公会名已存在，请重新创建" message_type="1"  />
+  <table id="21008" desc="公会-创建-创建成功" title="提示" text="创建成功" message_type="3"  />
+  <table id="21009" desc="公会-申请-加入" title="提示" text="申请成功" message_type="2"  />
+  <table id="21010" desc="公会-申请-取消" title="提示" text="取消申请" message_type="2"  />
+  <table id="21011" desc="公会-公会管理-通过入会申请" title="提示" text="您已通过{0}的入会申请" message_type="2"  />
+  <table id="21012" desc="公会-公会管理-拒绝入会申请" title="提示" text="您已拒绝{0}的入会申请" message_type="2"  />
+  <table id="21013" desc="公会-钻石捐献" title="提示" text="消耗钻石{0}，获得贡献{0}" message_type="2"  />
+  <table id="21014" desc="公会-金币捐献" title="提示" text="消耗金币{0}，获得贡献{0}" message_type="2"  />
+  <table id="21015" desc="公会-公告-修改公告" title="提示" text="修改成功" message_type="2"  />
+  <table id="21016" desc="公会-公会设置-任何人可加" title="提示" text="目前公会任何人可加" message_type="2"  />
+  <table id="21017" desc="公会-公会设置-需要同意" title="提示" text="目前加入公会需会长或副会同意" message_type="2"  />
+  <table id="21018" desc="公会-公会设置-任何人可加" title="提示" text="公会拒绝任何人加入" message_type="2"  />
+  <table id="21019" desc="公会-公会管理-权限" title="提示" text="只有会长及副会长才有管理权限" message_type="2"  />
+  <table id="21020" desc="公会-重置公会副本-公会值不足" title="#" text="重置该副本需要{0}公会值" message_type="1"  />
+  <table id="21021" desc="公会-开启公会副本-公会值不足" title="#" text="开启该副本需要{0}公会值" message_type="1"  />
+  <table id="21022" desc="公会-开启公会副本-前置关卡未完成" title="#" text="需要完成上一副本才能开启该副本" message_type="1"  />
+  <table id="21023" desc="公会-退出公会确认" title="提示" text="退出公会后，{0}小时内无法加入或创建任何公会，是否确认退出？" message_type="6"  />
+  <table id="21024" desc="公会-公会申请冷却提示" title="#" text="退出公会后，{0}小时内无法加入或创建任何公会" message_type="1"  />
+  <table id="21025" desc="公会-会长退出公会" title="#" text="公会尚有其他成员，会长无法退出公会" message_type="1"  />
+  <table id="21026" desc="公会-会长解散公会" title="提示" text="解散公会后，{0}小时内无法加入或创建任何公会，是否确认解散？" message_type="6"  />
+  <table id="21027" desc="公会-公会图腾-未开启" title="#" text="尚未达到开启等级" message_type="1"  />
+  <table id="21028" desc="公会-充能-金币不足" title="#" text="金币不足" message_type="1"  />
+  <table id="21029" desc="公会-充能-钻石不足" title="#" text="钻石不足" message_type="1"  />
+  <table id="21030" desc="公会-公会战" title="#" text="功能未开放，敬请期待！" message_type="1"  />
+  <table id="22001" desc="好友" title="#" text="未开启，战队12级开启" message_type="1"  />
+  <table id="22002" desc="好友" title="#" text="#" message_type="1"  />
+  <table id="22003" desc="好友-添加-查找" title="提示" text="无该账号信息，请再次核对信息" message_type="3"  />
+  <table id="22004" desc="好友-删除-删除成功" title="#" text="删除成功" message_type="1"  />
+  <table id="22005" desc="好友-删除-删除好友提示" title="提示" text="是否删除好友：{0}" message_type="6"  />
+  <table id="22006" desc="好友-添加-好友上限不足" title="提示" text="好友人数不足，请提升队伍等级或VIP等级来增加好友上限。" message_type="3"  />
+  <table id="22007" desc="好友-添加-已经申请" title="#" text="好友申请已经发出，\n请等待对方同意" message_type="1"  />
+  <table id="22008" desc="好友-添加-同意好友申请" title="#" text="添加好友成功" message_type="2"  />
+  <table id="22009" desc="好友-添加-拒绝好友申请" title="#" text="操作成功" message_type="2"  />
+  <table id="23001" desc="邮件" title="#" text="未开启，战队1级开启" message_type="1"  />
+  <table id="23002" desc="邮件" title="#" text="背包该物品已到达数量上限，请清理背包后再领取" message_type="1"  />
+  <table id="24001" desc="活动" title="#" text="未开启，战队20级开启" message_type="1"  />
+  <table id="25001" desc="商城-主界面商店开启" title="#" text="未开启，战队20级开启" message_type="1"  />
+  <table id="25002" desc="商城-刷新重置-钻石" title="提示" text="将显示一批新的物品，
+需要消耗{0}钻石，
+是否继续？" message_type="6"  />
+  <table id="25003" desc="商城-刷新重置-竞技币" title="提示" text="将显示一批新的物品，
+需要消耗{0}竞技币，
+是否继续？" message_type="6"  />
+  <table id="25004" desc="商城-刷新重置-BOSS点" title="提示" text="将显示一批新的物品，
+需要消耗{0}BOSS点，
+是否继续？" message_type="6"  />
+  <table id="25005" desc="商城-刷新重置-工会币" title="提示" text="将显示一批新的物品，
+需要消耗{0}工会币，
+是否继续？" message_type="6"  />
+  <table id="25006" desc="商城-刷新重置-远征币" title="提示" text="将显示一批新的物品，
+需要消耗{0}远征币，
+是否继续？" message_type="6"  />
+  <table id="25011" desc="商城-刷新重置-金币不足" title="提示" text="无法购买，金币不足" message_type="6"  />
+  <table id="25012" desc="商城-刷新重置-钻石不足" title="提示" text="无法购买，钻石不足" message_type="6"  />
+  <table id="25013" desc="商城-刷新重置-竞技币不足" title="提示" text="无法购买，竞技币不足" message_type="6"  />
+  <table id="25014" desc="商城-刷新重置-BOSS点不足" title="提示" text="无法购买，BOSS点不足" message_type="6"  />
+  <table id="25015" desc="商城-刷新重置-工会币不足" title="提示" text="无法购买，公会币不足" message_type="6"  />
+  <table id="25016" desc="商城-刷新重置-远征币不足" title="提示" text="无法购买，远征币不足" message_type="6"  />
+  <table id="26001" desc="充值VIP" title="#" text="未开启，战队25级开启" message_type="1"  />
+  <table id="27001" desc="聊天-世界聊天次数" title="提示" text="免费次数已用完，继续发言将花费{0}钻石。" message_type="6"  />
+  <table id="27002" desc="聊天-开启" title="提示" text="未开启，战队10级开启" message_type="1"  />
+  <table id="27003" desc="聊天-请选择聊天对象" title="#" text="请选择聊天对象" message_type="1"  />
+  <table id="28001" desc="签到" title="提示" text="未开启，战队6级开启" message_type="1"  />
+  <table id="29001" desc="海底宝藏-等级不足" title="#" text="需要达到20级后开启" message_type="1"  />
+  <table id="29002" desc="海底宝藏-不在副本开放日" title="#" text="今日尚未开放" message_type="1"  />
+  <table id="29003" desc="海底宝藏-未达到解锁等级" title="#" text="达到{0}级后解锁该难度" message_type="1"  />
+  <table id="29004" desc="海底宝藏-副本等级不足" title="#" text="需要达到{0}级后开启" message_type="1"  />
+  <table id="29005" desc="海底宝藏-挑战次数使用完毕" title="#" text="今日挑战次数使用完毕" message_type="1"  />
+  <table id="30001" desc="头像-等级为达到开启条件" title="#" text="战队等级达到{0}级开启" message_type="1"  />
+</ROOT>

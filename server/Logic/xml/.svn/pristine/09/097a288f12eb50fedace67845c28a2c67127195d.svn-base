@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ROOT>
+  <table heroskill_id="1" hero_id="101" id="1011" battle_id="1011" dongzuo_id="2" name="普通攻击" open_lv="1" sprite="skill_icon_1011" desc="1" desc2="1" desc_num="0" skill_lvup_desc="0"  />
+  <table heroskill_id="2" hero_id="101" id="1012" battle_id="1012" dongzuo_id="7" name="盾击" open_lv="1" sprite="skill_icon_1012" desc="用盾牌击退前面最近的敌人，造成短暂眩晕，造成少量物理伤害" desc2="每次伤害附加{0}点;对{0}级以下敌人必中" desc_num="0,14;0,1" skill_lvup_desc="附加伤害+14
+命中增加"  />
+  <table heroskill_id="3" hero_id="101" id="1010" battle_id="1010" dongzuo_id="6" name="英勇突杀" open_lv="2" sprite="skill_icon_1010" desc="斯巴达燃烧自己的斗志，长矛猛刺前方，对敌方单体造成大量伤害物理伤害" desc2="每次伤害附加{0}点" desc_num="100,14" skill_lvup_desc="伤害+14"  />
+  <table heroskill_id="4" hero_id="101" id="1013" battle_id="1013" dongzuo_id="#" name="不屈" open_lv="4" sprite="skill_icon_1013" desc="斯巴达无坚不摧的战斗意志，战斗中生命每减少10%，自身物理护甲和魔法抗性都将变强" desc2="物理护甲增加{0};魔法抗性增加{0}" desc_num="0,2;0,2" skill_lvup_desc="物理护甲+2
+魔法抗性+2"  />
+  <table heroskill_id="5" hero_id="101" id="1014" battle_id="1014" dongzuo_id="#" name="坚韧" open_lv="7" sprite="skill_icon_1014" desc="斯巴达勇士从小就经受千锤百炼，增加自身的力量" desc2="力量增加{0}点" desc_num="0,3" skill_lvup_desc="力量+3"  />
+  <table heroskill_id="6" hero_id="102" id="1021" battle_id="1021" dongzuo_id="2" name="1" open_lv="1" sprite="skill_icon_1021" desc="1" desc2="1" desc_num="0" skill_lvup_desc="0"  />
+  <table heroskill_id="7" hero_id="102" id="1020" battle_id="1020" dongzuo_id="6" name="守护天使" open_lv="1" sprite="skill_icon_1020" desc="召唤天使守护队友，使周围的友方单位对物理攻击免疫" desc2="最多免疫{0}点物理伤害" desc_num="200,50" skill_lvup_desc="免疫物理伤害+50"  />
+  <table heroskill_id="8" hero_id="102" id="1022" battle_id="1022" dongzuo_id="7" name="圣光" open_lv="2" sprite="skill_icon_1022" desc="立刻恢复一个友方最虚弱的单位的生命值" desc2="每次额外回复生命值{0}点" desc_num="72,8" skill_lvup_desc="回复生命值+8"  />
+  <table heroskill_id="9" hero_id="102" id="1023" battle_id="1023" dongzuo_id="8" name="神圣护盾" open_lv="4" sprite="skill_icon_1023" desc="用神圣能量创造一面光之盾，保护最虚弱的队友。当光之盾消失时，神圣能量会发生爆炸，对附近的敌人造成魔法伤害。" desc2="最多免疫{0}点伤害" desc_num="0,60" skill_lvup_desc="免疫伤害+60"  />
+  <table heroskill_id="10" hero_id="102" id="1024" battle_id="1024" dongzuo_id="#" name="祝福" open_lv="7" sprite="skill_icon_1024" desc="为队友施加祝福，减少他们受到的物理伤害。" desc2="最多减免物理伤害{0}%" desc_num="0,0.1" skill_lvup_desc="减免物理伤害+0.1%"  />
+  <table heroskill_id="11" hero_id="103" id="1031" battle_id="1031" dongzuo_id="2" name="1" open_lv="1" sprite="skill_icon_1031" desc="普通攻击" desc2="1" desc_num="0" skill_lvup_desc="0"  />
+  <table heroskill_id="12" hero_id="103" id="1030" battle_id="1030" dongzuo_id="2" name="1" open_lv="1" sprite="skill_icon_1030" desc="技能1-大招" desc2="1" desc_num="0" skill_lvup_desc="0"  />
+  <table heroskill_id="13" hero_id="103" id="1032" battle_id="1032" dongzuo_id="2" name="1" open_lv="2" sprite="skill_icon_1032" desc="技能2" desc2="1" desc_num="0" skill_lvup_desc="0"  />
+  <table heroskill_id="14" hero_id="103" id="1033" battle_id="1033" dongzuo_id="2" name="1" open_lv="4" sprite="skill_icon_1033" desc="技能3" desc2="1" desc_num="0" skill_lvup_desc="0"  />
+  <table heroskill_id="15" hero_id="103" id="1034" battle_id="1034" dongzuo_id="2" name="1" open_lv="7" sprite="skill_icon_1034" desc="技能4" desc2="1" desc_num="0" skill_lvup_desc="0"  />
+  <table heroskill_id="16" hero_id="104" id="1041" battle_id="1041" dongzuo_id="2" name="1" open_lv="1" sprite="skill_icon_1041" desc="普通攻击" desc2="1" desc_num="0" skill_lvup_desc="0"  />
+  <table heroskill_id="17" hero_id="104" id="1040" battle_id="1040" dongzuo_id="2" name="1" open_lv="1" sprite="skill_icon_1040" desc="技能1-大招" desc2="1" desc_num="0" skill_lvup_desc="0"  />
+  <table heroskill_id="18" hero_id="104" id="1042" battle_id="1042" dongzuo_id="2" name="1" open_lv="2" sprite="skill_icon_1042" desc="技能2" desc2="1" desc_num="0" skill_lvup_desc="0"  />
+  <table heroskill_id="19" hero_id="104" id="1043" battle_id="1043" dongzuo_id="2" name="1" open_lv="4" sprite="skill_icon_1043" desc="技能3" desc2="1" desc_num="0" skill_lvup_desc="0"  />
+  <table heroskill_id="20" hero_id="104" id="1044" battle_id="1044" dongzuo_id="2" name="1" open_lv="7" sprite="skill_icon_1044" desc="技能4" desc2="1" desc_num="0" skill_lvup_desc="0"  />
+  <table heroskill_id="21" hero_id="105" id="1051" battle_id="1051" dongzuo_id="2" name="1" open_lv="1" sprite="skill_icon_1051" desc="普通攻击" desc2="1" desc_num="0" skill_lvup_desc="0"  />
+  <table heroskill_id="22" hero_id="105" id="1050" battle_id="1050" dongzuo_id="2" name="1" open_lv="1" sprite="skill_icon_1050" desc="技能1-大招" desc2="1" desc_num="0" skill_lvup_desc="0"  />
+  <table heroskill_id="23" hero_id="105" id="1052" battle_id="1052" dongzuo_id="2" name="1" open_lv="2" sprite="skill_icon_1052" desc="技能2" desc2="1" desc_num="0" skill_lvup_desc="0"  />
+  <table heroskill_id="24" hero_id="105" id="1053" battle_id="1053" dongzuo_id="2" name="1" open_lv="4" sprite="skill_icon_1053" desc="技能3" desc2="1" desc_num="0" skill_lvup_desc="0"  />
+  <table heroskill_id="25" hero_id="105" id="1054" battle_id="1054" dongzuo_id="2" name="1" open_lv="7" sprite="skill_icon_1054" desc="技能4" desc2="1" desc_num="0" skill_lvup_desc="0"  />
+  <table heroskill_id="26" hero_id="106" id="1061" battle_id="1061" dongzuo_id="2" name="1" open_lv="1" sprite="skill_icon_1061" desc="普通攻击" desc2="1" desc_num="0" skill_lvup_desc="0"  />
+  <table heroskill_id="27" hero_id="106" id="1060" battle_id="1060" dongzuo_id="2" name="1" open_lv="1" sprite="skill_icon_1060" desc="技能1-大招" desc2="1" desc_num="0" skill_lvup_desc="0"  />
+  <table heroskill_id="28" hero_id="106" id="1062" battle_id="1062" dongzuo_id="2" name="1" open_lv="2" sprite="skill_icon_1062" desc="技能2" desc2="1" desc_num="0" skill_lvup_desc="0"  />
+  <table heroskill_id="29" hero_id="106" id="1063" battle_id="1063" dongzuo_id="2" name="1" open_lv="4" sprite="skill_icon_1063" desc="技能3" desc2="1" desc_num="0" skill_lvup_desc="0"  />
+  <table heroskill_id="30" hero_id="106" id="1064" battle_id="1064" dongzuo_id="2" name="1" open_lv="7" sprite="skill_icon_1064" desc="技能4" desc2="1" desc_num="0" skill_lvup_desc="0"  />
+  <table heroskill_id="31" hero_id="201" id="2011" battle_id="2011" dongzuo_id="2" name="1" open_lv="1" sprite="skill_icon_2011" desc="普通攻击" desc2="1" desc_num="0" skill_lvup_desc="0"  />
+  <table heroskill_id="32" hero_id="201" id="2010" battle_id="2010" dongzuo_id="2" name="1" open_lv="1" sprite="skill_icon_2010" desc="技能1-大招" desc2="1" desc_num="0" skill_lvup_desc="0"  />
+  <table heroskill_id="33" hero_id="201" id="2012" battle_id="2012" dongzuo_id="2" name="1" open_lv="2" sprite="skill_icon_2012" desc="技能2" desc2="1" desc_num="0" skill_lvup_desc="0"  />
+  <table heroskill_id="34" hero_id="201" id="2013" battle_id="2013" dongzuo_id="2" name="1" open_lv="4" sprite="skill_icon_2013" desc="技能3" desc2="1" desc_num="0" skill_lvup_desc="0"  />
+  <table heroskill_id="35" hero_id="201" id="2014" battle_id="2014" dongzuo_id="2" name="1" open_lv="7" sprite="skill_icon_2014" desc="技能4" desc2="1" desc_num="0" skill_lvup_desc="0"  />
+  <table heroskill_id="36" hero_id="202" id="2021" battle_id="2021" dongzuo_id="2" name="普通攻击" open_lv="1" sprite="skill_icon_2021" desc="普通攻击" desc2="1" desc_num="0" skill_lvup_desc="0"  />
+  <table heroskill_id="37" hero_id="202" id="2020" battle_id="2020" dongzuo_id="6" name="地裂斩" open_lv="1" sprite="skill_icon_2020" desc="用自己的心灵异能凝聚到剑气上面，狠狠劈向敌人，对敌方单体造成巨大的物理伤害" desc2="附加伤害增加{0}点" desc_num="160,18" skill_lvup_desc="伤害+18"  />
+  <table heroskill_id="38" hero_id="202" id="2022" battle_id="2022" dongzuo_id="7" name="圣印" open_lv="2" sprite="skill_icon_2022" desc="标记一名敌人，一段时间内削弱他的护甲" desc2="物理护甲降低{0}点" desc_num="10,1.5" skill_lvup_desc="物理护甲降低1.5"  />
+  <table heroskill_id="39" hero_id="202" id="2023" battle_id="2023" dongzuo_id="#" name="势不可当" open_lv="4" sprite="skill_icon_2023" desc="每斩杀一个敌人，贞德将提升自己的暴击" desc2="暴击增加{0}点" desc_num="0,20" skill_lvup_desc="暴击+20"  />
+  <table heroskill_id="40" hero_id="202" id="2024" battle_id="2024" dongzuo_id="#" name="牺牲" open_lv="7" sprite="skill_icon_2024" desc="阵亡后提升全队的物理攻击" desc2="物理护甲增加{0}点" desc_num="0,4" skill_lvup_desc="物理护甲+4"  />
+  <table heroskill_id="41" hero_id="203" id="2031" battle_id="2031" dongzuo_id="2" name="1" open_lv="1" sprite="skill_icon_2031" desc="普通攻击" desc2="1" desc_num="0" skill_lvup_desc="0"  />
+  <table heroskill_id="42" hero_id="203" id="2030" battle_id="2030" dongzuo_id="2" name="1" open_lv="1" sprite="skill_icon_2030" desc="技能1-大招" desc2="1" desc_num="0" skill_lvup_desc="0"  />
+  <table heroskill_id="43" hero_id="203" id="2032" battle_id="2032" dongzuo_id="2" name="1" open_lv="2" sprite="skill_icon_2032" desc="技能2" desc2="1" desc_num="0" skill_lvup_desc="0"  />
+  <table heroskill_id="44" hero_id="203" id="2033" battle_id="2033" dongzuo_id="2" name="1" open_lv="4" sprite="skill_icon_2033" desc="技能3" desc2="1" desc_num="0" skill_lvup_desc="0"  />
+  <table heroskill_id="45" hero_id="203" id="2034" battle_id="2034" dongzuo_id="2" name="1" open_lv="7" sprite="skill_icon_2034" desc="技能4" desc2="1" desc_num="0" skill_lvup_desc="0"  />
+  <table heroskill_id="46" hero_id="204" id="2041" battle_id="2041" dongzuo_id="2" name="普攻" open_lv="1" sprite="skill_icon_2041" desc="普通攻击" desc2="1" desc_num="0" skill_lvup_desc="0"  />
+  <table heroskill_id="47" hero_id="204" id="2040" battle_id="2040" dongzuo_id="6" name="落日" open_lv="1" sprite="skill_icon_2040" desc="神箭射落九个太阳坠向对方全体，造成魔法伤害" desc2="附加伤害增加{0}点" desc_num="80,28" skill_lvup_desc="伤害+28"  />
+  <table heroskill_id="48" hero_id="204" id="2042" battle_id="2042" dongzuo_id="7" name="射雨" open_lv="2" sprite="skill_icon_2042" desc="对敌人连续射出多只箭矢，造成成吨的伤害。技能等级越高，造成的伤害越多。" desc2="附加伤害增加{0}点" desc_num="0,7" skill_lvup_desc="伤害+7"  />
+  <table heroskill_id="49" hero_id="204" id="2043" battle_id="2043" dongzuo_id="8" name="武神" open_lv="4" sprite="skill_icon_2043" desc="拥有武神神力，短时间提升攻击速度和暴击" desc2="暴击增加{0}点" desc_num="0,20" skill_lvup_desc="暴击+20"  />
+  <table heroskill_id="50" hero_id="204" id="2044" battle_id="2044" dongzuo_id="#" name="追日" open_lv="7" sprite="skill_icon_2044" desc="提升全队的敏捷" desc2="敏捷增加{0}点" desc_num="0,2" skill_lvup_desc="敏捷+2"  />
+  <table heroskill_id="51" hero_id="205" id="2051" battle_id="2051" dongzuo_id="2" name="1" open_lv="1" sprite="skill_icon_2051" desc="普通攻击" desc2="1" desc_num="0" skill_lvup_desc="0"  />
+  <table heroskill_id="52" hero_id="205" id="2050" battle_id="2050" dongzuo_id="6" name="横扫千军" open_lv="1" sprite="skill_icon_2050" desc="战场上花木兰所向披靡，凝聚内力对敌方前排造成大量伤害" desc2="附加伤害增加{0}点" desc_num="55,8" skill_lvup_desc="伤害+8"  />
+  <table heroskill_id="53" hero_id="205" id="2052" battle_id="2052" dongzuo_id="7" name="雌雄" open_lv="2" sprite="skill_icon_2052" desc="花木兰召唤自身的幻想分身协助战斗" desc2="分身占本体属性{0}%" desc_num="10,0.1" skill_lvup_desc="属性增加+0.1%"  />
+  <table heroskill_id="54" hero_id="205" id="2053" battle_id="2053" dongzuo_id="8" name="修养" open_lv="4" sprite="skill_icon_2053" desc="持刀快速旋转造成周围物理伤害，同时自身持续回复生命，并增加魔法抗性" desc2="回复生命值{0}点;增加魔法抗性{0}点" desc_num="0,48;02" skill_lvup_desc="回复生命值+48
+魔法抗性+2"  />
+  <table heroskill_id="55" hero_id="205" id="2054" battle_id="2054" dongzuo_id="#" name="迷离" open_lv="7" sprite="skill_icon_2054" desc="增加自身的闪避" desc2="闪避增加{0}点" desc_num="0,0.5" skill_lvup_desc="力量+3"  />
+  <table heroskill_id="56" hero_id="206" id="2061" battle_id="2061" dongzuo_id="2" name="1" open_lv="1" sprite="skill_icon_2061" desc="普通攻击" desc2="1" desc_num="0" skill_lvup_desc="0"  />
+  <table heroskill_id="57" hero_id="206" id="2060" battle_id="2060" dongzuo_id="2" name="1" open_lv="1" sprite="skill_icon_2060" desc="技能1-大招" desc2="1" desc_num="0" skill_lvup_desc="0"  />
+  <table heroskill_id="58" hero_id="206" id="2062" battle_id="2062" dongzuo_id="2" name="1" open_lv="2" sprite="skill_icon_2062" desc="技能2" desc2="1" desc_num="0" skill_lvup_desc="0"  />
+  <table heroskill_id="59" hero_id="206" id="2063" battle_id="2063" dongzuo_id="2" name="1" open_lv="4" sprite="skill_icon_2063" desc="技能3" desc2="1" desc_num="0" skill_lvup_desc="0"  />
+  <table heroskill_id="60" hero_id="206" id="2064" battle_id="2064" dongzuo_id="2" name="1" open_lv="7" sprite="skill_icon_2064" desc="技能4" desc2="1" desc_num="0" skill_lvup_desc="0"  />
+  <table heroskill_id="61" hero_id="207" id="2071" battle_id="2071" dongzuo_id="2" name="1" open_lv="1" sprite="skill_icon_2071" desc="普通攻击" desc2="1" desc_num="0" skill_lvup_desc="0"  />
+  <table heroskill_id="62" hero_id="207" id="2070" battle_id="2070" dongzuo_id="2" name="1" open_lv="1" sprite="skill_icon_2070" desc="技能1-大招" desc2="1" desc_num="0" skill_lvup_desc="0"  />
+  <table heroskill_id="63" hero_id="207" id="2072" battle_id="2072" dongzuo_id="2" name="1" open_lv="2" sprite="skill_icon_2072" desc="技能2" desc2="1" desc_num="0" skill_lvup_desc="0"  />
+  <table heroskill_id="64" hero_id="207" id="2073" battle_id="2073" dongzuo_id="2" name="1" open_lv="4" sprite="skill_icon_2073" desc="技能3" desc2="1" desc_num="0" skill_lvup_desc="0"  />
+  <table heroskill_id="65" hero_id="207" id="2074" battle_id="2074" dongzuo_id="2" name="1" open_lv="7" sprite="skill_icon_2074" desc="技能4" desc2="1" desc_num="0" skill_lvup_desc="0"  />
+  <table heroskill_id="66" hero_id="208" id="2081" battle_id="2081" dongzuo_id="2" name="1" open_lv="1" sprite="skill_icon_2081" desc="普通攻击" desc2="1" desc_num="0" skill_lvup_desc="0"  />
+  <table heroskill_id="67" hero_id="208" id="2080" battle_id="2080" dongzuo_id="2" name="1" open_lv="1" sprite="skill_icon_2080" desc="技能1-大招" desc2="1" desc_num="0" skill_lvup_desc="0"  />
+  <table heroskill_id="68" hero_id="208" id="2082" battle_id="2082" dongzuo_id="2" name="1" open_lv="2" sprite="skill_icon_2082" desc="技能2" desc2="1" desc_num="0" skill_lvup_desc="0"  />
+  <table heroskill_id="69" hero_id="208" id="2083" battle_id="2083" dongzuo_id="2" name="1" open_lv="4" sprite="skill_icon_2083" desc="技能3" desc2="1" desc_num="0" skill_lvup_desc="0"  />
+  <table heroskill_id="70" hero_id="208" id="2084" battle_id="2084" dongzuo_id="2" name="1" open_lv="7" sprite="skill_icon_2084" desc="技能4" desc2="1" desc_num="0" skill_lvup_desc="0"  />
+  <table heroskill_id="71" hero_id="301" id="3011" battle_id="3011" dongzuo_id="2" name="普通攻击" open_lv="1" sprite="skill_icon_3011" desc="普通攻击" desc2="1" desc_num="0" skill_lvup_desc="0"  />
+  <table heroskill_id="72" hero_id="301" id="3010" battle_id="3010" dongzuo_id="6" name="绽风华" open_lv="1" sprite="skill_icon_3010" desc="貂蝉绽放风华，对敌方全体造成巨大AOE魔法伤害" desc2="附加伤害{0}点" desc_num="144,17" skill_lvup_desc="伤害+17"  />
+  <table heroskill_id="73" hero_id="301" id="3013" battle_id="3013" dongzuo_id="7" name="火焰波" open_lv="2" sprite="skill_icon_3013" desc="对敌方单体造成魔法伤害" desc2="附加伤害{0}点" desc_num="150,17" skill_lvup_desc="伤害+17"  />
+  <table heroskill_id="74" hero_id="301" id="3012" battle_id="3012" dongzuo_id="8" name="销魂" open_lv="4" sprite="skill_icon_3012" desc="貂蝉销魂的身姿，令敌人一人流失能量" desc2="增加能量流失{0}点" desc_num="0,2" skill_lvup_desc="能量流失+2"  />
+  <table heroskill_id="75" hero_id="301" id="3014" battle_id="3014" dongzuo_id="#" name="红颜" open_lv="7" sprite="skill_icon_3014" desc="四大美人绝技，自身所受到的物理伤害降低" desc2="物理免疫增加{0}%" desc_num="0,0.5" skill_lvup_desc="物理免疫+0.5%"  />
+  <table heroskill_id="76" hero_id="302" id="3021" battle_id="3021" dongzuo_id="2" name="1" open_lv="1" sprite="skill_icon_3021" desc="普通攻击" desc2="1" desc_num="0" skill_lvup_desc="0"  />
+  <table heroskill_id="77" hero_id="302" id="3020" battle_id="3020" dongzuo_id="6" name="卧龙" open_lv="1" sprite="skill_icon_3020" desc="对敌方全体造成魔法伤害，智力越低，伤害越高" desc2="附加伤害{0}点" desc_num="156,26" skill_lvup_desc="伤害+26"  />
+  <table heroskill_id="78" hero_id="302" id="3022" battle_id="3022" dongzuo_id="7" name="神算" open_lv="2" sprite="skill_icon_3022" desc="短时间控制智力最低的一个敌人，使之无法移动、闪避和攻击" desc2="对{0}级以下敌人必中" desc_num="0,1" skill_lvup_desc="命中增加"  />
+  <table heroskill_id="79" hero_id="302" id="3023" battle_id="3023" dongzuo_id="8" name="八阵" open_lv="4" sprite="skill_icon_3023" desc="战场上释放魔法阵，范围内的敌人大大降低魔抗" desc2="降低魔法抗性{0}点" desc_num="2.5,1" skill_lvup_desc="降低魔法抗性+1"  />
+  <table heroskill_id="80" hero_id="302" id="3024" battle_id="3024" dongzuo_id="#" name="洞察" open_lv="7" sprite="skill_icon_3024" desc="提升自身的智力" desc2="智力增加{0}点" desc_num="0,3" skill_lvup_desc="智力+3"  />
+  <table heroskill_id="81" hero_id="303" id="3031" battle_id="3031" dongzuo_id="2" name="1" open_lv="1" sprite="skill_icon_3031" desc="普通攻击" desc2="1" desc_num="0" skill_lvup_desc="0"  />
+  <table heroskill_id="82" hero_id="303" id="3030" battle_id="3030" dongzuo_id="2" name="1" open_lv="1" sprite="skill_icon_3030" desc="技能1-大招" desc2="1" desc_num="0" skill_lvup_desc="0"  />
+  <table heroskill_id="83" hero_id="303" id="3032" battle_id="3032" dongzuo_id="2" name="1" open_lv="2" sprite="skill_icon_3032" desc="技能2" desc2="1" desc_num="0" skill_lvup_desc="0"  />
+  <table heroskill_id="84" hero_id="303" id="3033" battle_id="3033" dongzuo_id="2" name="1" open_lv="4" sprite="skill_icon_3033" desc="技能3" desc2="1" desc_num="0" skill_lvup_desc="0"  />
+  <table heroskill_id="85" hero_id="303" id="3034" battle_id="3034" dongzuo_id="2" name="1" open_lv="7" sprite="skill_icon_3034" desc="技能4" desc2="1" desc_num="0" skill_lvup_desc="0"  />
+  <table heroskill_id="86" hero_id="304" id="3041" battle_id="3041" dongzuo_id="2" name="普攻" open_lv="1" sprite="skill_icon_3041" desc="普通攻击" desc2="1" desc_num="0" skill_lvup_desc="0"  />
+  <table heroskill_id="87" hero_id="304" id="3042" battle_id="3042" dongzuo_id="7" name="亡魂" open_lv="1" sprite="skill_icon_3042" desc="释放一批亡魂，用他们的能量治疗附近的队友，并伤害附近的敌人" desc2="附加伤害{0}点;回复生命值{0}点" desc_num="55,4;55,4" skill_lvup_desc="伤害+4
+回复生命值+4"  />
+  <table heroskill_id="88" hero_id="304" id="3040" battle_id="3040" dongzuo_id="6" name="巫术" open_lv="2" sprite="skill_icon_3040" desc="对最虚弱的敌人造成魔法伤害，并吸取一定生命值" desc2="附加伤害{0}点" desc_num="150,11" skill_lvup_desc="伤害+11"  />
+  <table heroskill_id="89" hero_id="304" id="3043" battle_id="3043" dongzuo_id="8" name="亡灵战士" open_lv="4" sprite="skill_icon_3043" desc="从死亡单位的尸体上召唤一个木乃伊为自己战斗" desc2="木乃伊等级为{0}" desc_num="0,1" skill_lvup_desc="等级+1"  />
+  <table heroskill_id="90" hero_id="304" id="3044" battle_id="3044" dongzuo_id="#" name="意念" open_lv="7" sprite="skill_icon_3044" desc="增加自身的魔法抗性" desc2="魔法抗性增加{0}点" desc_num="0,3" skill_lvup_desc="魔法抗性+3"  />
+  <table heroskill_id="91" hero_id="305" id="3051" battle_id="3051" dongzuo_id="2" name="1" open_lv="1" sprite="skill_icon_3051" desc="普通攻击" desc2="1" desc_num="0" skill_lvup_desc="0"  />
+  <table heroskill_id="92" hero_id="305" id="3050" battle_id="3050" dongzuo_id="2" name="1" open_lv="1" sprite="skill_icon_3050" desc="技能1-大招" desc2="1" desc_num="0" skill_lvup_desc="0"  />
+  <table heroskill_id="93" hero_id="305" id="3052" battle_id="3052" dongzuo_id="2" name="1" open_lv="2" sprite="skill_icon_3052" desc="技能2" desc2="1" desc_num="0" skill_lvup_desc="0"  />
+  <table heroskill_id="94" hero_id="305" id="3053" battle_id="3053" dongzuo_id="2" name="1" open_lv="4" sprite="skill_icon_3053" desc="技能3" desc2="1" desc_num="0" skill_lvup_desc="0"  />
+  <table heroskill_id="95" hero_id="305" id="3054" battle_id="3054" dongzuo_id="2" name="1" open_lv="7" sprite="skill_icon_3054" desc="技能4" desc2="1" desc_num="0" skill_lvup_desc="0"  />
+  <table heroskill_id="96" hero_id="306" id="3061" battle_id="3061" dongzuo_id="2" name="1" open_lv="1" sprite="skill_icon_3061" desc="普通攻击" desc2="1" desc_num="0" skill_lvup_desc="0"  />
+  <table heroskill_id="97" hero_id="306" id="3060" battle_id="3060" dongzuo_id="2" name="1" open_lv="1" sprite="skill_icon_3060" desc="技能1-大招" desc2="1" desc_num="0" skill_lvup_desc="0"  />
+  <table heroskill_id="98" hero_id="306" id="3062" battle_id="3062" dongzuo_id="2" name="1" open_lv="2" sprite="skill_icon_3062" desc="技能2" desc2="1" desc_num="0" skill_lvup_desc="0"  />
+  <table heroskill_id="99" hero_id="306" id="3063" battle_id="3063" dongzuo_id="2" name="1" open_lv="4" sprite="skill_icon_3063" desc="技能3" desc2="1" desc_num="0" skill_lvup_desc="0"  />
+  <table heroskill_id="100" hero_id="306" id="3064" battle_id="3064" dongzuo_id="2" name="1" open_lv="7" sprite="skill_icon_3064" desc="技能4" desc2="1" desc_num="0" skill_lvup_desc="0"  />
+  <table heroskill_id="101" hero_id="307" id="3071" battle_id="3071" dongzuo_id="2" name="普通攻击" open_lv="1" sprite="skill_icon_3071" desc="普通攻击" desc2="1" desc_num="0" skill_lvup_desc="0"  />
+  <table heroskill_id="102" hero_id="307" id="3070" battle_id="3070" dongzuo_id="6" name="神圣治疗" open_lv="1" sprite="skill_icon_3070" desc="海伦为队友释放神圣魔法，在一定时间内回复全体队员生命值" desc2="每次额外回复生命值{0}点" desc_num="30,5" skill_lvup_desc="回复生命值+5"  />
+  <table heroskill_id="103" hero_id="307" id="3073" battle_id="3073" dongzuo_id="8" name="魅惑" open_lv="2" sprite="skill_icon_3073" desc="作为人间里最漂亮的女人，魅惑敌人，使其攻击队友" desc2="对{0}级以下敌人必中" desc_num="0,1" skill_lvup_desc="命中率提升"  />
+  <table heroskill_id="104" hero_id="307" id="3072" battle_id="3072" dongzuo_id="7" name="奥弹" open_lv="4" sprite="skill_icon_3072" desc="以奥术能量释放发球，对敌方单体造成魔法伤害" desc2="附加伤害{0}点" desc_num="99,11" skill_lvup_desc="伤害+11"  />
+  <table heroskill_id="105" hero_id="307" id="3074" battle_id="3074" dongzuo_id="9" name="祈祷" open_lv="7" sprite="skill_icon_3074" desc="为最虚弱的队友提升物防法防" desc2="物理护甲提升{0}点;魔法抗性提升{0}点" desc_num="0,3;0,3" skill_lvup_desc="物理护甲+3
+魔法抗性+3"  />
+  <table heroskill_id="106" hero_id="308" id="3081" battle_id="3081" dongzuo_id="2" name="1" open_lv="1" sprite="skill_icon_3081" desc="普通攻击" desc2="1" desc_num="0" skill_lvup_desc="0"  />
+  <table heroskill_id="107" hero_id="308" id="3080" battle_id="3080" dongzuo_id="6" name="幻心" open_lv="1" sprite="skill_icon_3080" desc="使用幻心术，使得敌方单位全体一段时间内眩晕" desc2="对{0}级以下敌人必中" desc_num="0,1" skill_lvup_desc="命中增加"  />
+  <table heroskill_id="108" hero_id="308" id="3082" battle_id="3082" dongzuo_id="7" name="流沙" open_lv="2" sprite="skill_icon_3082" desc="用流沙攻击目标区域，造成小范围魔法伤害并使敌人减速" desc2="附加伤害{0}点" desc_num="71,11" skill_lvup_desc="伤害+11"  />
+  <table heroskill_id="109" hero_id="308" id="3083" battle_id="3083" dongzuo_id="8" name="沙甲" open_lv="4" sprite="skill_icon_3083" desc="为最虚弱的队友凝聚沙之护甲，一段时间内增加其护甲" desc2="护甲增加{0}点" desc_num="0,2" skill_lvup_desc="护甲+2"  />
+  <table heroskill_id="110" hero_id="308" id="3084" battle_id="3084" dongzuo_id="#" name="诅咒" open_lv="7" sprite="skill_icon_3084" desc="降低敌方全体魔抗" desc2="降低魔法抗性增加{0}点" desc_num="0,0.8" skill_lvup_desc="降低魔法抗性+0.8"  />
+  <table heroskill_id="111" hero_id="309" id="3091" battle_id="3091" dongzuo_id="2" name="1" open_lv="1" sprite="skill_icon_3091" desc="普通攻击" desc2="1" desc_num="0" skill_lvup_desc="0"  />
+  <table heroskill_id="112" hero_id="309" id="3090" battle_id="3090" dongzuo_id="2" name="楚歌" open_lv="1" sprite="skill_icon_3090" desc="技能1-大招" desc2="1" desc_num="0" skill_lvup_desc="0"  />
+  <table heroskill_id="113" hero_id="309" id="3092" battle_id="3092" dongzuo_id="2" name="埋伏" open_lv="2" sprite="skill_icon_3092" desc="技能2" desc2="1" desc_num="0" skill_lvup_desc="0"  />
+  <table heroskill_id="114" hero_id="309" id="3093" battle_id="3093" dongzuo_id="2" name="诀别" open_lv="4" sprite="skill_icon_3093" desc="技能3" desc2="1" desc_num="0" skill_lvup_desc="0"  />
+  <table heroskill_id="115" hero_id="309" id="3094" battle_id="3094" dongzuo_id="2" name="舍身" open_lv="7" sprite="skill_icon_3094" desc="技能4" desc2="1" desc_num="0" skill_lvup_desc="0"  />
+  <table heroskill_id="116" hero_id="310" id="3101" battle_id="3101" dongzuo_id="2" name="1" open_lv="1" sprite="skill_icon_3101" desc="普通攻击" desc2="1" desc_num="0" skill_lvup_desc="0"  />
+  <table heroskill_id="117" hero_id="310" id="3100" battle_id="3100" dongzuo_id="2" name="1" open_lv="1" sprite="skill_icon_3100" desc="技能1-大招" desc2="1" desc_num="0" skill_lvup_desc="0"  />
+  <table heroskill_id="118" hero_id="310" id="3102" battle_id="3102" dongzuo_id="2" name="1" open_lv="2" sprite="skill_icon_3102" desc="技能2" desc2="1" desc_num="0" skill_lvup_desc="0"  />
+  <table heroskill_id="119" hero_id="310" id="3103" battle_id="3103" dongzuo_id="2" name="1" open_lv="4" sprite="skill_icon_3103" desc="技能3" desc2="1" desc_num="0" skill_lvup_desc="0"  />
+  <table heroskill_id="120" hero_id="310" id="3104" battle_id="3104" dongzuo_id="2" name="1" open_lv="7" sprite="skill_icon_3104" desc="技能4" desc2="1" desc_num="0" skill_lvup_desc="0"  />
+</ROOT>

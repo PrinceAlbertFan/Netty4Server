@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ROOT>
+  <table id="1" battle_id="1" desc="前面就是克苏鲁宫殿雕像，
+终于到了！" role="prefabs/BattleWorld/Model/Prefab_101" role_name="斯巴达" show_time="1" voice="#" place="1"  />
+  <table id="2" battle_id="1" desc="这么大的宫殿竟然在海底，
+透不过气来。" role="prefabs/BattleWorld/Model/Prefab_202" role_name="贞德" show_time="1" voice="#" place="1"  />
+  <table id="3" battle_id="1" desc="非常想念您！
+我的主人~阿撒托斯！" role="prefabs/BattleWorld/Model/Prefab_kesunu" role_name="克苏鲁" show_time="1" voice="#" place="2"  />
+  <table id="4" battle_id="1" desc="睡了太久了，我的主人！
+我始终效忠于你！~阿撒托斯" role="prefabs/BattleWorld/Model/Prefab_kesunu" role_name="克苏鲁" show_time="1" voice="#" place="2"  />
+  <table id="5" battle_id="1" desc="什么声音？
+难道是雕像在呼喊？" role="prefabs/BattleWorld/Model/Prefab_307" role_name="海伦" show_time="1" voice="#" place="1"  />
+  <table id="6" battle_id="1" desc="你们人类破坏了我们的世界，
+我们的世界最终还是我们的！" role="prefabs/BattleWorld/Model/Prefab_kesunu" role_name="克苏鲁" show_time="1" voice="#" place="2"  />
+  <table id="7" battle_id="1" desc="大家小心！
+旧日支配者们都在慢慢苏醒，
+赶快摧毁雕像，
+以免祸害更多生灵！" role="prefabs/BattleWorld/Model/Prefab_301" role_name="貂蝉" show_time="1" voice="#" place="1"  />
+  <table id="8" battle_id="1" desc="愚蠢的人类，
+在睡梦中安然的死亡吧。
+我的主啊！
+我始终效忠于你！~阿撒托斯" role="prefabs/BattleWorld/Model/Prefab_kesunu" role_name="克苏鲁" show_time="1" voice="#" place="2"  />
+  <table id="9" battle_id="1" desc="冲啊！为了荣誉！" role="prefabs/BattleWorld/Model/Prefab_101" role_name="斯巴达" show_time="1" voice="#" place="1"  />
+  <table id="10" battle_id="1" desc="就这么结束了吗？
+原来仅仅是个幻想而已。" role="prefabs/BattleWorld/Model/Prefab_301" role_name="貂蝉" show_time="2" voice="#" place="1"  />
+  <table id="11" battle_id="1" desc="你们这些愚蠢人类，
+这才刚开始，醒来吧主人，
+人类等待真正的洗礼吧！" role="prefabs/BattleWorld/Model/Prefab_kesunu" role_name="克苏鲁" show_time="2" voice="#" place="2"  />
+  <table id="12" battle_id="1" desc="那是谁？" role="prefabs/BattleWorld/Model/Prefab_202" role_name="贞德" show_time="2" voice="#" place="1"  />
+  <table id="13" battle_id="1" desc="我被魔神阿撒托斯灵魂占据成为魔兽。
+" role="prefabs/BattleWorld/Model/Prefab_1001" role_name="邪神-克苏鲁" show_time="2" voice="#" place="2"  />
+  <table id="14" battle_id="1" desc="谢谢你们解救了我。
+请称呼我，克苏鲁！" role="prefabs/BattleWorld/Model/Prefab_1001" role_name="邪神-克苏鲁" show_time="2" voice="#" place="2"  />
+  <table id="15" battle_id="1" desc="时空之门正在慢慢开启，
+魔神阿撒托斯正在慢慢苏醒，
+我可以引领你们去同魔神战斗！" role="prefabs/BattleWorld/Model/Prefab_1001" role_name="邪神-克苏鲁" show_time="2" voice="#" place="2"  />
+  <table id="16" battle_id="1" desc="欢迎你的加入，为了荣誉！
+一起战斗！" role="prefabs/BattleWorld/Model/Prefab_101" role_name="斯巴达" show_time="2" voice="#" place="1"  />
+  <table id="17" battle_id="1" desc="宫殿就要崩塌了，大家小心！
+大家赶快走！" role="prefabs/BattleWorld/Model/Prefab_307" role_name="海伦" show_time="2" voice="#" place="1"  />
+  <table id="18" battle_id="1" desc="大家跟我走，逃出去！
+快~快~快~" role="prefabs/BattleWorld/Model/Prefab_1001" role_name="邪神-克苏鲁" show_time="2" voice="#" place="2"  />
+  <table id="19" battle_id="1" desc="你们先走，我垫后！
+女人重要！" role="prefabs/BattleWorld/Model/Prefab_101" role_name="斯巴达" show_time="2" voice="#" place="1"  />
+  <table id="20" battle_id="1" desc="海伦、贞德、貂蝉！
+被困在里面了，快去召唤她们！" role="prefabs/BattleWorld/Model/Prefab_1001" role_name="邪神-克苏鲁" show_time="2" voice="#" place="2"  />
+  <table id="21" battle_id="10101" desc="这里就是地下迷宫，
+现在被恶魔巨石领主占领着。" role="prefabs/BattleWorld/Model/Prefab_1001" role_name="邪神-克苏鲁" show_time="1" voice="#" place="1"  />
+  <table id="22" battle_id="10101" desc="大家小心！" role="prefabs/BattleWorld/Model/Prefab_1001" role_name="邪神-克苏鲁" show_time="1" voice="#" place="1"  />
+  <table id="23" battle_id="10101" desc="战斗吧，勇士们！" role="prefabs/BattleWorld/Model/Prefab_101" role_name="斯巴达" show_time="1" voice="#" place="2"  />
+  <table id="24" battle_id="10101" desc="邪神能量满后，
+可释放技能帮助大家。
+注意：每个技能一场战斗只能使用一次" role="prefabs/BattleWorld/Model/Prefab_1001" role_name="邪神-克苏鲁" show_time="1" voice="#" place="1"  />
+  <table id="25" battle_id="10101" desc="干的漂亮，我的英雄们" role="prefabs/BattleWorld/Model/Prefab_1001" role_name="邪神-克苏鲁" show_time="2" voice="#" place="1"  />
+  <table id="26" battle_id="10101" desc="继续前进吧，铲除所有的恶魔" role="prefabs/BattleWorld/Model/Prefab_308" role_name="埃及艳后" show_time="2" voice="#" place="2"  />
+  <table id="27" battle_id="10102" desc="战斗吧，我的英雄！" role="prefabs/BattleWorld/Model/Prefab_1001" role_name="邪神-克苏鲁" show_time="1" voice="#" place="1"  />
+  <table id="28" battle_id="10102" desc="大家注意自己生命值，
+我可以为大家恢复生命值。" role="prefabs/BattleWorld/Model/Prefab_307" role_name="海伦" show_time="1" voice="#" place="2"  />
+  <table id="29" battle_id="10103" desc="英雄们！
+获得装备后，要去强化自己！
+才能走的更远！" role="prefabs/BattleWorld/Model/Prefab_1001" role_name="邪神-克苏鲁" show_time="1" voice="#" place="1"  />
+  <table id="30" battle_id="10103" desc="大家注意，
+被“标记”的怪物，
+可被“集火”优先攻击！" role="prefabs/BattleWorld/Model/Prefab_307" role_name="海伦" show_time="1" voice="#" place="2"  />
+  <table id="31" battle_id="10103" desc="恶魔“巨石领主”就在前面。
+一定要优先攻击它召唤石头人，否则它免疫一切伤害！" role="prefabs/BattleWorld/Model/Prefab_1001" role_name="邪神-克苏鲁" show_time="1" voice="#" place="1"  />
+  <table id="32" battle_id="10105" desc="安能辩我是雌雄~" role="prefabs/BattleWorld/Model/Prefab_205" role_name="花木兰" show_time="1" voice="#" place="2"  />
+  <table id="33" battle_id="10105" desc="可以召唤新伙伴增强队伍实力！" role="prefabs/BattleWorld/Model/Prefab_1001" role_name="邪神-克苏鲁" show_time="1" voice="#" place="1"  />
+  <table id="34" battle_id="10108" desc="让我留给你们永世的魔魇。。。" role="prefabs/BattleWorld/Model/Prefab_304" role_name="法老王" show_time="1" voice="#" place="2"  />
+  <table id="35" battle_id="10108" desc="小心法老之王的诅咒！" role="prefabs/BattleWorld/Model/Prefab_1001" role_name="邪神-克苏鲁" show_time="1" voice="#" place="1"  />
+</ROOT>

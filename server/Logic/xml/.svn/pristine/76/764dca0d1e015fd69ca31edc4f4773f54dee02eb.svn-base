@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ROOT>
+  <table vipLv="1" dailyTicket="10" buyEnergyTime="2" buyCoinTime="10" friendLimit="0" arenaBuyTime="0" eliteBuyTime="1" nightmareBuyTime="1" worldBossBuyTime="1" heroSkillLimit="10"  />
+  <table vipLv="2" dailyTicket="20" buyEnergyTime="4" buyCoinTime="15" friendLimit="0" arenaBuyTime="0" eliteBuyTime="2" nightmareBuyTime="2" worldBossBuyTime="2" heroSkillLimit="10"  />
+  <table vipLv="3" dailyTicket="30" buyEnergyTime="6" buyCoinTime="20" friendLimit="10" arenaBuyTime="1" eliteBuyTime="3" nightmareBuyTime="3" worldBossBuyTime="3" heroSkillLimit="20"  />
+  <table vipLv="4" dailyTicket="40" buyEnergyTime="8" buyCoinTime="25" friendLimit="20" arenaBuyTime="2" eliteBuyTime="4" nightmareBuyTime="4" worldBossBuyTime="4" heroSkillLimit="20"  />
+  <table vipLv="5" dailyTicket="50" buyEnergyTime="10" buyCoinTime="30" friendLimit="30" arenaBuyTime="3" eliteBuyTime="5" nightmareBuyTime="5" worldBossBuyTime="5" heroSkillLimit="20"  />
+  <table vipLv="6" dailyTicket="60" buyEnergyTime="12" buyCoinTime="35" friendLimit="40" arenaBuyTime="4" eliteBuyTime="6" nightmareBuyTime="6" worldBossBuyTime="6" heroSkillLimit="20"  />
+  <table vipLv="7" dailyTicket="70" buyEnergyTime="14" buyCoinTime="40" friendLimit="50" arenaBuyTime="5" eliteBuyTime="7" nightmareBuyTime="7" worldBossBuyTime="7" heroSkillLimit="20"  />
+  <table vipLv="8" dailyTicket="80" buyEnergyTime="16" buyCoinTime="45" friendLimit="60" arenaBuyTime="6" eliteBuyTime="8" nightmareBuyTime="8" worldBossBuyTime="8" heroSkillLimit="20"  />
+  <table vipLv="9" dailyTicket="90" buyEnergyTime="18" buyCoinTime="50" friendLimit="70" arenaBuyTime="7" eliteBuyTime="9" nightmareBuyTime="9" worldBossBuyTime="9" heroSkillLimit="20"  />
+  <table vipLv="10" dailyTicket="100" buyEnergyTime="20" buyCoinTime="55" friendLimit="80" arenaBuyTime="8" eliteBuyTime="10" nightmareBuyTime="10" worldBossBuyTime="10" heroSkillLimit="20"  />
+  <table vipLv="11" dailyTicket="110" buyEnergyTime="22" buyCoinTime="60" friendLimit="90" arenaBuyTime="9" eliteBuyTime="11" nightmareBuyTime="11" worldBossBuyTime="11" heroSkillLimit="20"  />
+  <table vipLv="12" dailyTicket="120" buyEnergyTime="24" buyCoinTime="65" friendLimit="100" arenaBuyTime="10" eliteBuyTime="12" nightmareBuyTime="12" worldBossBuyTime="12" heroSkillLimit="20"  />
+  <table vipLv="13" dailyTicket="130" buyEnergyTime="26" buyCoinTime="70" friendLimit="110" arenaBuyTime="11" eliteBuyTime="13" nightmareBuyTime="13" worldBossBuyTime="13" heroSkillLimit="20"  />
+  <table vipLv="14" dailyTicket="140" buyEnergyTime="28" buyCoinTime="75" friendLimit="120" arenaBuyTime="12" eliteBuyTime="14" nightmareBuyTime="14" worldBossBuyTime="14" heroSkillLimit="20"  />
+  <table vipLv="15" dailyTicket="150" buyEnergyTime="30" buyCoinTime="80" friendLimit="130" arenaBuyTime="13" eliteBuyTime="15" nightmareBuyTime="15" worldBossBuyTime="15" heroSkillLimit="20"  />
+</ROOT>

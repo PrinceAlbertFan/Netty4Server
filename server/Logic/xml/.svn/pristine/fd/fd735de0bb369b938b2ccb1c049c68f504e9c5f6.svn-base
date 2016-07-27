@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ROOT>
+  <table id="1" model="prefabs/BattleWorld/Bullet/kelousheshou_1_bullet_1" speed="10" dec="测试用-子弹"  />
+  <table id="2" model="prefabs/BattleWorld/Bullet/prefab_effect_zhiyudan" speed="10" dec="测试用-天上"  />
+  <table id="3" model="prefabs/BattleWorld/Effect/dumannvyao_1_loop_1" speed="99" dec="测试用-直接生效"  />
+  <table id="3011" model="prefabs/BattleWorld/Bullet/diaochan_1_bullet_1" speed="8" dec="貂蝉普通攻击"  />
+  <table id="3012" model="prefabs/BattleWorld/Bullet/diaochan_2_bullet_1" speed="8" dec="貂蝉技能2"  />
+  <table id="3013" model="prefabs/BattleWorld/Bullet/diaochan_3_bullet_1" speed="8" dec="貂蝉技能3"  />
+  <table id="3071" model="prefabs/BattleWorld/Bullet/hanlun_1_bullet_1" speed="10" dec="海伦普通攻击"  />
+  <table id="3074" model="prefabs/BattleWorld/Bullet/hanlun_0_bullet_1" speed="10" dec="海伦技能3"  />
+  <table id="200021" model="prefabs/BattleWorld/Bullet/shixiangmoou_1_bullet_1" speed="8" dec="巨石魔偶-普通攻击"  />
+  <table id="200022" model="prefabs/BattleWorld/Bullet/shixiangmoou_0_bullet_1" speed="10" dec="巨石魔偶-技能"  />
+  <table id="200031" model="prefabs/BattleWorld/Bullet/kelousheshou_1_bullet_1" speed="13" dec="骷髅射手-普通攻击"  />
+  <table id="200061" model="prefabs/BattleWorld/Bullet/dieyao_1_bullet_1" speed="10" dec="妖蝶-普通攻击"  />
+  <table id="210011" model="prefabs/BattleWorld/Bullet/kesulu_2_bullet_1" speed="6" dec="克苏鲁-技能"  />
+  <table id="210031" model="prefabs/BattleWorld/Effect/dumannvyao_2_loop_1" speed="99" dec="毒蔓女妖-技能-毒"  />
+  <table id="210032" model="prefabs/BattleWorld/Bullet/dumannvyao_0_bullet_1" speed="11" dec="毒蔓女妖-技能-毒"  />
+  <table id="210033" model="prefabs/BattleWorld/Bullet/dumannvyao_1_bullet_1" speed="11" dec="毒蔓女妖-技能-毒"  />
+  <table id="2041" model="prefabs/BattleWorld/Bullet/houyi_1_bullet_1" speed="1" dec="后羿普通攻击"  />
+  <table id="2042" model="prefabs/BattleWorld/Bullet/houyi_0_bullet_1" speed="1" dec="后羿大招"  />
+  <table id="2043" model="prefabs/BattleWorld/Bullet/houyi_2_bullet_1" speed="1" dec="后羿技能2"  />
+  <table id="3041" model="prefabs/BattleWorld/Bullet/falaowang_1_bullet_1" speed="1" dec="法老王普通攻击"  />
+  <table id="3042" model="prefabs/BattleWorld/Bullet/falaowang_0_bullet_1" speed="1" dec="法老王大招"  />
+  <table id="3043" model="prefabs/BattleWorld/Bullet/falaowang_2_bullet_1" speed="1" dec="法老王技能2"  />
+</ROOT>

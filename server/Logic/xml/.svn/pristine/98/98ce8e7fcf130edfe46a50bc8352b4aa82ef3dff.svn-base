@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ROOT>
+  <table id="1" level="0" order="0" star="0" fist_attr_type="0" location="0" atk_range="0" hero_type="0" sex="0" desc="主线副本阵容"  />
+  <table id="2" level="0" order="0" star="0" fist_attr_type="1" location="0" atk_range="0" hero_type="0" sex="0" desc="只能上力量型英雄"  />
+  <table id="3" level="0" order="0" star="0" fist_attr_type="2" location="0" atk_range="0" hero_type="0" sex="0" desc="只能上敏捷型英雄"  />
+  <table id="4" level="0" order="0" star="0" fist_attr_type="3" location="0" atk_range="0" hero_type="0" sex="0" desc="只能上智力型英雄"  />
+  <table id="5" level="0" order="0" star="0" fist_attr_type="0" location="2" atk_range="0" hero_type="0" sex="0" desc="只能上肉盾"  />
+  <table id="6" level="0" order="0" star="0" fist_attr_type="0" location="6" atk_range="0" hero_type="0" sex="0" desc="只能上输出"  />
+  <table id="7" level="0" order="0" star="0" fist_attr_type="0" location="1" atk_range="0" hero_type="0" sex="0" desc="只能上辅助"  />
+  <table id="8" level="0" order="0" star="0" fist_attr_type="0" location="0" atk_range="3" hero_type="0" sex="0" desc="只能上近战英雄"  />
+  <table id="9" level="0" order="0" star="0" fist_attr_type="0" location="0" atk_range="4" hero_type="0" sex="0" desc="只能上远程英雄"  />
+  <table id="10" level="0" order="0" star="0" fist_attr_type="0" location="0" atk_range="0" hero_type="5" sex="0" desc="只能上物理系英雄"  />
+  <table id="11" level="0" order="0" star="0" fist_attr_type="0" location="0" atk_range="0" hero_type="7" sex="0" desc="只能上魔法系英雄"  />
+  <table id="12" level="0" order="0" star="0" fist_attr_type="0" location="0" atk_range="0" hero_type="0" sex="1" desc="只能上男英雄"  />
+  <table id="13" level="0" order="0" star="0" fist_attr_type="0" location="0" atk_range="0" hero_type="0" sex="2" desc="只能上女英雄"  />
+  <table id="14" level="30" order="0" star="0" fist_attr_type="0" location="0" atk_range="0" hero_type="0" sex="0" desc="30级以上英雄"  />
+  <table id="15" level="0" order="7" star="0" fist_attr_type="0" location="0" atk_range="0" hero_type="0" sex="0" desc="紫色品质以上英雄"  />
+  <table id="16" level="0" order="0" star="3" fist_attr_type="0" location="0" atk_range="0" hero_type="0" sex="0" desc="3星以上英雄"  />
+</ROOT>

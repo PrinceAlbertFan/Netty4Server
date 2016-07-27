@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ROOT>
+  <table id="1" order_name="最强王者" order_icon="PK_online_S6" reward1="1,99902,2200" reward2="1,99901,200000" reward3="1,99801,2000" reward4="1,99906,800" reward1_Sunday="#" reward2_Sunday="#" reward3_Sunday="#" reward4_Sunday="#"  />
+  <table id="2" order_name="超凡大师" order_icon="PK_online_S5" reward1="1,99902,2000" reward2="1,99901,150000" reward3="1,99801,1800" reward4="1,99906,775" reward1_Sunday="#" reward2_Sunday="#" reward3_Sunday="#" reward4_Sunday="#"  />
+  <table id="3" order_name="巅峰大师" order_icon="PK_online_S4" reward1="1,99902,1500" reward2="1,99901,120000" reward3="1,99801,1500" reward4="1,99906,750" reward1_Sunday="#" reward2_Sunday="#" reward3_Sunday="#" reward4_Sunday="#"  />
+  <table id="5" order_name="巅峰精英III" order_icon="PK_online_S3" reward1="1,99902,1000" reward2="1,99901,100000" reward3="1,99801,1300" reward4="1,99906,725" reward1_Sunday="#" reward2_Sunday="#" reward3_Sunday="#" reward4_Sunday="#"  />
+  <table id="10" order_name="巅峰精英II" order_icon="PK_online_S2" reward1="1,99902,800" reward2="1,99901,80000" reward3="1,99801,1200" reward4="1,99906,700" reward1_Sunday="#" reward2_Sunday="#" reward3_Sunday="#" reward4_Sunday="#"  />
+  <table id="20" order_name="巅峰精英I" order_icon="PK_online_S1" reward1="1,99902,600" reward2="1,99901,55000" reward3="1,99801,1100" reward4="1,99906,675" reward1_Sunday="#" reward2_Sunday="#" reward3_Sunday="#" reward4_Sunday="#"  />
+  <table id="30" order_name="#" order_icon="#" reward1="1,99902,500" reward2="1,99901,30000" reward3="1,99801,1000" reward4="1,99906,650" reward1_Sunday="#" reward2_Sunday="#" reward3_Sunday="#" reward4_Sunday="#"  />
+  <table id="50" order_name="#" order_icon="#" reward1="1,99902,400" reward2="1,99901,25000" reward3="1,99801,800" reward4="1,99906,625" reward1_Sunday="#" reward2_Sunday="#" reward3_Sunday="#" reward4_Sunday="#"  />
+  <table id="100" order_name="#" order_icon="#" reward1="1,99902,300" reward2="1,99901,20000" reward3="1,99801,750" reward4="1,99906,600" reward1_Sunday="#" reward2_Sunday="#" reward3_Sunday="#" reward4_Sunday="#"  />
+  <table id="200" order_name="#" order_icon="#" reward1="1,99902,250" reward2="1,99901,15000" reward3="1,99801,700" reward4="1,99906,575" reward1_Sunday="#" reward2_Sunday="#" reward3_Sunday="#" reward4_Sunday="#"  />
+  <table id="500" order_name="#" order_icon="#" reward1="1,99902,200" reward2="1,99901,14000" reward3="1,99801,650" reward4="1,99906,550" reward1_Sunday="#" reward2_Sunday="#" reward3_Sunday="#" reward4_Sunday="#"  />
+  <table id="1000" order_name="#" order_icon="#" reward1="1,99902,180" reward2="1,99901,13000" reward3="1,99801,500" reward4="1,99906,525" reward1_Sunday="#" reward2_Sunday="#" reward3_Sunday="#" reward4_Sunday="#"  />
+  <table id="2000" order_name="#" order_icon="#" reward1="1,99902,150" reward2="1,99901,12000" reward3="1,99801,450" reward4="1,99906,500" reward1_Sunday="#" reward2_Sunday="#" reward3_Sunday="#" reward4_Sunday="#"  />
+  <table id="5000" order_name="#" order_icon="#" reward1="1,99902,120" reward2="1,99901,11000" reward3="1,99801,400" reward4="1,99906,475" reward1_Sunday="#" reward2_Sunday="#" reward3_Sunday="#" reward4_Sunday="#"  />
+  <table id="10000" order_name="#" order_icon="#" reward1="1,99902,100" reward2="1,99901,10000" reward3="1,99801,300" reward4="1,99906,450" reward1_Sunday="#" reward2_Sunday="#" reward3_Sunday="#" reward4_Sunday="#"  />
+  <table id="20000" order_name="#" order_icon="#" reward1="1,99902,80" reward2="1,99901,9000" reward3="1,99801,200" reward4="1,99906,425" reward1_Sunday="#" reward2_Sunday="#" reward3_Sunday="#" reward4_Sunday="#"  />
+  <table id="50000" order_name="#" order_icon="#" reward1="1,99902,80" reward2="1,99901,8000" reward3="1,99801,100" reward4="1,99906,400" reward1_Sunday="#" reward2_Sunday="#" reward3_Sunday="#" reward4_Sunday="#"  />
+</ROOT>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ROOT>
+  <table id="1" name="Condition_1" param="#"  />
+  <table id="2" name="Condition_2" param="#"  />
+  <table id="3" name="Condition_3" param="0.50"  />
+  <table id="4" name="Condition_3" param="0.80"  />
+  <table id="5" name="Condition_4" param="0.5" desc="我方有英雄生命值低于50%"  />
+</ROOT>

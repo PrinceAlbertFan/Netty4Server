@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ROOT>
+  <table id="1" type="1" icon="equi_icon_106" title="版本更新公告" text="亲爱的玩家：
+       《克苏鲁传奇》手游新版“英雄少年”即将于9月10日震撼开启，在本次版本更新中，我们将对装备制作功能进行重要更新，并新增装备升级功能。" addressor="克苏鲁女神"  />
+  <table id="2" type="1" icon="equi_icon_107" title="版本更新公告" text="#" addressor="#"  />
+  <table id="10001" type="2" icon="equi_icon_108" title="竞技场奖励" text="亲爱的玩家：
+       你在竞技场获得排名为{0}，根据排名现在为您发放奖励，希望再接再厉，请领取！" addressor="竞技场组委会"  />
+  <table id="10002" type="2" icon="equi_icon_109" title="巅峰对决奖励" text="亲爱的玩家：
+       你在巅峰对决中获得排名为{0}，根据排名现在为您发放奖励，希望再接再厉，请领取！" addressor="巅峰对决组委会"  />
+  <table id="10003" type="2" icon="equi_icon_110" title="封印BOSS奖励" text="亲爱的玩家：
+       你在封印BOSS造成最高伤害获得排名为{0}，根据排名现在为您发放奖励，希望再接再厉，请领取！" addressor="封印BOSS组委会"  />
+  <table id="10004" type="2" icon="equi_icon_111" title="背包物品溢出" text="亲爱的玩家：
+       由于您获得物品资源超过了背包物品数量上限，将通过邮件形式发放给您，请领取！" addressor="克苏鲁女神"  />
+  <table id="10005" type="2" icon="equi_icon_112" title="版本更新维护补偿" text="亲爱的玩家：
+       《克苏鲁传奇》手游新版“英雄少年”即将于9月10日震撼开启，在本次版本更新中，我们将对装备制作功能进行重要更新，并新增装备升级功能。现在将发放补偿物品给您，请领取！" addressor="克苏鲁女神"  />
+  <table id="10006" type="2" icon="equi_icon_113" title="工会副本奖励" text="亲爱的玩家：
+       您在工会副本中申请的战利品，已经发放，请领取！" addressor="#"  />
+  <table id="10007" type="2" icon="equi_icon_113" title="工会副本奖励" text="亲爱的玩家：
+       公会已经通关第{0}章BOSS，排名为{0}，根据排名现在为您发放奖励，希望再接再厉，请领取！" addressor="#"  />
+</ROOT>

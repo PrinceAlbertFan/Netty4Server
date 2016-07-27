@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ROOT>
+  <table id="1" mood_left="300" mood_right="201" mood_name="大笑" mood_icon="happy3" power_need="1000" skill_lv="5" mood_dec="心情值在201~300范围时
+1.邪神收集能量速度加快20%
+2.战斗时，技能等级提高5级"  />
+  <table id="2" mood_left="200" mood_right="101" mood_name="快乐" mood_icon="happy2" power_need="750" skill_lv="3" mood_dec="心情值在101~200范围时
+1.邪神收集能量速度加快15%
+2.战斗时，技能等级降低3级"  />
+  <table id="3" mood_left="100" mood_right="1" mood_name="开心" mood_icon="happy1" power_need="500" skill_lv="1" mood_dec="心情值在1~100范围时
+1.邪神收集能量速度加快10%"  />
+  <table id="4" mood_left="0" mood_right="0" mood_name="一般" mood_icon="normal" power_need="0" skill_lv="0" mood_dec="邪神心情很平淡，正常发挥"  />
+  <table id="5" mood_left="-1" mood_right="-100" mood_name="沮丧" mood_icon="sad1" power_need="-200" skill_lv="-1" mood_dec="心情值在-1~-100范围时
+1.邪神收集能量速度减慢10%"  />
+  <table id="6" mood_left="-101" mood_right="-200" mood_name="悲伤" mood_icon="sad2" power_need="-500" skill_lv="-3" mood_dec="心情值在-101~-200范围时
+1.邪神收集能量速度减慢15%
+2.战斗时，技能等级降低2级"  />
+  <table id="7" mood_left="-201" mood_right="-300" mood_name="大哭" mood_icon="sad3" power_need="-1000" skill_lv="-5" mood_dec="心情值在-201~-300范围时
+1.邪神收集能量速度减慢20%
+2.战斗时，技能等级降低2级"  />
+</ROOT>

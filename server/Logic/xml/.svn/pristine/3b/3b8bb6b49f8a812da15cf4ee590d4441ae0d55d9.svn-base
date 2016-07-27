@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ROOT>
+  <table id="1" god_id="1001" god_name="克苏鲁" skill_id="200110" action="6" name="感应冲击" star="1" cost="30" sprite="skill_icon_1010" desc="利用心灵感应风暴，对敌人造成{0}点魔法伤害" desc2="简介2" desc_num="200,8" battle_para="20" skill_lvup_desc="伤害+8"  />
+  <table id="2" god_id="1001" god_name="克苏鲁" skill_id="200120" action="7" name="封印守护" star="2" cost="60" sprite="skill_icon_3070" desc="封印作为守护盾，一段时间内我方全体英雄增加能够抵挡{0}点魔法伤害" desc2="简介2" desc_num="200,8" battle_para="21" skill_lvup_desc="抵挡魔法伤害+8"  />
+  <table id="3" god_id="1001" god_name="克苏鲁" skill_id="200130" action="8" name="心灵鼓励" star="3" cost="1" sprite="skill_icon_1013" desc="英雄受到心灵鼓励激发斗志，一段时间内全体英雄攻击速度提升{0}%" desc2="简介2" desc_num="20,2" battle_para="22" skill_lvup_desc="攻击速度+2%"  />
+  <table id="4" god_id="1002" god_name="炼狱魔女" skill_id="200110" action="6" name="炼狱火鞭" star="1" cost="40" sprite="skill_icon_x201" desc="炼狱魔女挥舞火鞭束缚对方能量最多的2个单位，一段时间内使其无法行动同时消耗{0}能量" desc2="简介2" desc_num="100,8" battle_para="20" skill_lvup_desc="消耗能量+8"  />
+  <table id="5" god_id="1002" god_name="炼狱魔女" skill_id="200120" action="7" name="烈焰之火" star="2" cost="80" sprite="skill_icon_x202" desc="释放烈焰之火，对敌方全体造成持续性火焰魔法伤害，每次{0}魔法伤害" desc2="简介2" desc_num="100,20" battle_para="20" skill_lvup_desc="每次魔法伤害+20"  />
+  <table id="6" god_id="1002" god_name="炼狱魔女" skill_id="200130" action="8" name="炼狱训斥" star="3" cost="1" sprite="skill_icon_x203" desc="邪神训斥恶魔的口吻，使得敌方全体短时间攻击力降低{0}点" desc2="简介2" desc_num="300,10" battle_para="21" skill_lvup_desc="攻击力降低10点"  />
+  <table id="7" god_id="1003" god_name="邪神3" skill_id="200110" action="6" name="技能1" star="1" cost="30" sprite="skill_icon_2024" desc="敌人全部伤害" desc2="简介2" desc_num="0" battle_para="20" skill_lvup_desc="#"  />
+  <table id="8" god_id="1003" god_name="邪神3" skill_id="200120" action="7" name="技能2" star="2" cost="60" sprite="skill_icon_2024" desc="我方全部恢复生命" desc2="简介2" desc_num="0" battle_para="21" skill_lvup_desc="#"  />
+  <table id="9" god_id="1003" god_name="邪神3" skill_id="200130" action="8" name="技能3" star="3" cost="1" sprite="skill_icon_2024" desc="我方增加攻击力" desc2="简介2" desc_num="0" battle_para="22" skill_lvup_desc="#"  />
+  <table id="10" god_id="1004" god_name="邪神4" skill_id="200110" action="6" name="技能1" star="1" cost="40" sprite="skill_icon_2024" desc="敌人全部伤害" desc2="简介2" desc_num="0" battle_para="20" skill_lvup_desc="#"  />
+  <table id="11" god_id="1004" god_name="邪神4" skill_id="200120" action="7" name="技能2" star="2" cost="80" sprite="skill_icon_2024" desc="我方全部恢复生命" desc2="简介2" desc_num="0" battle_para="21" skill_lvup_desc="#"  />
+  <table id="12" god_id="1004" god_name="邪神4" skill_id="200130" action="8" name="技能3" star="3" cost="1" sprite="skill_icon_2024" desc="我方增加攻击力" desc2="简介2" desc_num="0" battle_para="22" skill_lvup_desc="#"  />
+</ROOT>

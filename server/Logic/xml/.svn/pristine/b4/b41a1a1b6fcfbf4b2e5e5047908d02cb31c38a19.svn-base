@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ROOT>
+  <table id="1" reward1="1,99902,550" reward2="1,99901,100000" reward3="1,99801,800" reward4="1,50003,12"  />
+  <table id="2" reward1="1,99902,500" reward2="1,99901,95000" reward3="1,99801,775" reward4="1,50003,10"  />
+  <table id="3" reward1="1,99902,450" reward2="1,99901,90000" reward3="1,99801,750" reward4="1,50003,9"  />
+  <table id="4" reward1="1,99902,400" reward2="1,99901,85000" reward3="1,99801,725" reward4="1,50003,8"  />
+  <table id="5" reward1="1,99902,350" reward2="1,99901,80000" reward3="1,99801,700" reward4="1,50003,7"  />
+  <table id="6" reward1="1,99902,340" reward2="1,99901,75000" reward3="1,99801,680" reward4="1,50003,6"  />
+  <table id="7" reward1="1,99902,330" reward2="1,99901,70000" reward3="1,99801,660" reward4="1,50003,5"  />
+  <table id="8" reward1="1,99902,320" reward2="1,99901,65000" reward3="1,99801,640" reward4="1,50003,4"  />
+  <table id="9" reward1="1,99902,310" reward2="1,99901,60000" reward3="1,99801,620" reward4="1,50003,3"  />
+  <table id="10" reward1="1,99902,300" reward2="1,99901,55000" reward3="1,99801,600" reward4="1,50003,2"  />
+  <table id="20" reward1="1,99902,250" reward2="1,99901,50000" reward3="1,99801,590" reward4="1,50002,8"  />
+  <table id="30" reward1="1,99902,200" reward2="1,99901,45000" reward3="1,99801,575" reward4="1,50002,7"  />
+  <table id="40" reward1="1,99902,150" reward2="1,99901,40000" reward3="1,99801,560" reward4="1,50002,6"  />
+  <table id="50" reward1="1,99902,130" reward2="1,99901,35000" reward3="1,99801,545" reward4="1,50002,5"  />
+  <table id="70" reward1="1,99902,110" reward2="1,99901,30000" reward3="1,99801,530" reward4="1,50002,4"  />
+  <table id="100" reward1="1,99902,100" reward2="1,99901,27500" reward3="1,99801,500" reward4="1,50002,3"  />
+  <table id="200" reward1="1,99902,90" reward2="1,99901,25000" reward3="1,99801,475" reward4="1,50002,2"  />
+  <table id="300" reward1="1,99902,80" reward2="1,99901,22500" reward3="1,99801,450" reward4="1,50001,8"  />
+  <table id="400" reward1="1,99902,70" reward2="1,99901,20000" reward3="1,99801,425" reward4="1,50001,7"  />
+  <table id="500" reward1="1,99902,60" reward2="1,99901,18000" reward3="1,99801,400" reward4="1,50001,6"  />
+  <table id="700" reward1="1,99902,55" reward2="1,99901,16000" reward3="1,99801,350" reward4="1,50001,5"  />
+  <table id="1000" reward1="1,99902,55" reward2="1,99901,14000" reward3="1,99801,300" reward4="1,50001,4"  />
+  <table id="2000" reward1="1,99902,55" reward2="1,99901,12000" reward3="1,99801,260" reward4="1,50001,3"  />
+  <table id="3000" reward1="1,99902,50" reward2="1,99901,10000" reward3="1,99801,220" reward4="1,50001,2"  />
+  <table id="4000" reward1="1,99902,50" reward2="1,99901,9000" reward3="1,99801,180" reward4="1,50001,1"  />
+  <table id="5000" reward1="1,99902,50" reward2="1,99901,8000" reward3="1,99801,140" reward4="1,50001,1"  />
+  <table id="7000" reward1="1,99902,45" reward2="1,99901,7000" reward3="1,99801,100" reward4="1,50001,1"  />
+  <table id="10000" reward1="1,99902,45" reward2="1,99901,6000" reward3="1,99801,90" reward4="1,50001,1"  />
+  <table id="15000" reward1="1,99902,45" reward2="1,99901,5000" reward3="1,99801,80" reward4="1,50001,1"  />
+  <table id="999999" reward1="1,99902,45" reward2="1,99901,4000" reward3="1,99801,50" reward4="1,50001,1"  />
+</ROOT>

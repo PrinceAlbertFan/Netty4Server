@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ROOT>
+  <table id="101" name="人物等级" value="0"  />
+  <table id="102" name="进化星级" value="0"  />
+  <table id="103" name="进阶等级" value="0"  />
+  <table id="104" name="技能0等级" value="4"  />
+  <table id="105" name="技能2等级" value="4"  />
+  <table id="106" name="技能3等级" value="4"  />
+  <table id="107" name="技能4等级" value="4"  />
+  <table id="8" name="力量" value="0.9"  />
+  <table id="9" name="智力" value="0.9"  />
+  <table id="10" name="敏捷" value="0.9"  />
+  <table id="11" name="最大生命值" value="0.04"  />
+  <table id="12" name="物理攻击力" value="0.6"  />
+  <table id="13" name="魔法强度" value="0.3"  />
+  <table id="14" name="物理护甲" value="2"  />
+  <table id="15" name="魔法抗性" value="2"  />
+  <table id="16" name="物理暴击" value="1.25"  />
+  <table id="17" name="魔法暴击" value="1.25"  />
+  <table id="18" name="生命回复" value="0.06"  />
+  <table id="19" name="能量回复" value="0.15"  />
+  <table id="20" name="闪避" value="1"  />
+  <table id="21" name="穿透物理护甲" value="4"  />
+  <table id="22" name="忽视魔法抗性" value="4"  />
+  <table id="23" name="吸血" value="0.6"  />
+  <table id="24" name="能量消耗降低" value="1.25"  />
+  <table id="25" name="治疗技能效果提高" value="300"  />
+  <table id="26" name="提升技能等级" value="20"  />
+  <table id="27" name="抵抗沉默几率" value="150"  />
+  <table id="28" name="命中" value="2"  />
+  <table id="29" name="物理伤害免疫" value="2000"  />
+  <table id="30" name="魔法伤害免疫" value="2000"  />
+</ROOT>

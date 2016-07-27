@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ROOT>
+  <table id="1" god_id="1001" god_name="克苏鲁" skill_id="200110" karma_after_skill_id="200111" karma_hero="101;102;202;307" karma_desc="额外对敌人造成{0}点魔法伤害" desc_num="50,2"  />
+  <table id="2" god_id="1001" god_name="克苏鲁" skill_id="200110" karma_after_skill_id="200112" karma_hero="202;204;205;301" karma_desc="额外对敌人降低{0}点物理护甲" desc_num="20,3"  />
+  <table id="3" god_id="1001" god_name="克苏鲁" skill_id="200120" karma_after_skill_id="200121" karma_hero="101;102;202;307" karma_desc="额外抵挡{0}点魔法伤害" desc_num="5,2"  />
+  <table id="4" god_id="1001" god_name="克苏鲁" skill_id="200120" karma_after_skill_id="200122" karma_hero="202;204;205;301" karma_desc="额外提升{0}点物理护甲" desc_num="20,5"  />
+  <table id="5" god_id="1001" god_name="克苏鲁" skill_id="200130" karma_after_skill_id="200131" karma_hero="101;102;202;307" karma_desc="额外提升{0}点攻击力" desc_num="100,5"  />
+  <table id="6" god_id="1001" god_name="克苏鲁" skill_id="200130" karma_after_skill_id="200132" karma_hero="202;204;205;301" karma_desc="额外提升{0}点暴击" desc_num="10,1"  />
+  <table id="7" god_id="1002" god_name="炼狱魔女" skill_id="200210" karma_after_skill_id="200211" karma_hero="101;204;304;308" karma_desc="额外对敌人降低{0}点能量" desc_num="50,2"  />
+  <table id="8" god_id="1002" god_name="炼狱魔女" skill_id="200210" karma_after_skill_id="200212" karma_hero="102;301;302;307" karma_desc="额外对敌人降低{0}点魔法抗性" desc_num="20,3"  />
+  <table id="9" god_id="1002" god_name="炼狱魔女" skill_id="200220" karma_after_skill_id="200221" karma_hero="101;204;304;308" karma_desc="额外每次对敌人造成{0}点魔法伤害" desc_num="5,2"  />
+  <table id="10" god_id="1002" god_name="炼狱魔女" skill_id="200220" karma_after_skill_id="200222" karma_hero="102;301;302;307" karma_desc="额外对敌人降低{0}点攻击力" desc_num="100,3"  />
+  <table id="11" god_id="1002" god_name="炼狱魔女" skill_id="200230" karma_after_skill_id="200231" karma_hero="101;204;304;308" karma_desc="额外对敌人降低{0}点攻击力" desc_num="5,2"  />
+  <table id="12" god_id="1002" god_name="炼狱魔女" skill_id="200230" karma_after_skill_id="200232" karma_hero="102;301;302;307" karma_desc="额外对敌人降低{0}点魔法抗性" desc_num="150,3"  />
+  <table id="13" god_id="1003" god_name="邪神3" skill_id="200110" karma_after_skill_id="200111" karma_hero="101;202" karma_desc="额外对敌人造成{0}点魔法伤害" desc_num="50,2"  />
+  <table id="14" god_id="1003" god_name="邪神3" skill_id="200110" karma_after_skill_id="200112" karma_hero="202;301;307" karma_desc="短时间为最虚弱的队友提升物防{0}" desc_num="20,3"  />
+  <table id="15" god_id="1003" god_name="邪神3" skill_id="200120" karma_after_skill_id="200121" karma_hero="101;202;301;307" karma_desc="每次额外为我方队员恢复{0}点生命值" desc_num="5,2"  />
+  <table id="16" god_id="1003" god_name="邪神3" skill_id="200130" karma_after_skill_id="200131" karma_hero="202;301;307" karma_desc="附加毒伤害，每次造成{0}点魔法伤害" desc_num="10,1"  />
+  <table id="17" god_id="1004" god_name="邪神4" skill_id="200110" karma_after_skill_id="200111" karma_hero="101;202" karma_desc="额外对敌人造成{0}点魔法伤害" desc_num="50,2"  />
+  <table id="18" god_id="1004" god_name="邪神4" skill_id="200110" karma_after_skill_id="200112" karma_hero="202;301;307" karma_desc="短时间为最虚弱的队友提升物防{0}" desc_num="20,3"  />
+  <table id="19" god_id="1004" god_name="邪神4" skill_id="200120" karma_after_skill_id="200121" karma_hero="101;202;301;307" karma_desc="每次额外为我方队员恢复{0}点生命值" desc_num="5,2"  />
+  <table id="20" god_id="1004" god_name="邪神4" skill_id="200130" karma_after_skill_id="200131" karma_hero="202;301;307" karma_desc="附加毒伤害，每次造成{0}点魔法伤害" desc_num="10,1"  />
+</ROOT>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ROOT>
+  <table id="1" addOrder="[0,0,0]" allOrder="[0,0,0]" name="白" ack="frame_head_1" hero_ack="white"  />
+  <table id="2" addOrder="[2,2,2]" allOrder="[2,2,2]" name="绿" ack="frame_head_2" hero_ack="green"  />
+  <table id="3" addOrder="[4,4,4]" allOrder="[6,6,6]" name="绿1" ack="frame_head_3" hero_ack="green"  />
+  <table id="4" addOrder="[6,6,6]" allOrder="[12,12,12]" name="蓝" ack="frame_head_4" hero_ack="blue"  />
+  <table id="5" addOrder="[8,8,8]" allOrder="[20,20,20]" name="蓝1" ack="frame_head_5" hero_ack="blue"  />
+  <table id="6" addOrder="[10,10,10]" allOrder="[30,30,30]" name="蓝2" ack="frame_head_6" hero_ack="blue"  />
+  <table id="7" addOrder="[12,12,12]" allOrder="[42,42,42]" name="紫" ack="frame_head_7" hero_ack="purple"  />
+  <table id="8" addOrder="[14,14,14]" allOrder="[56,56,56]" name="紫1" ack="frame_head_8" hero_ack="purple"  />
+  <table id="9" addOrder="[16,16,16]" allOrder="[72,72,72]" name="紫2" ack="frame_head_9" hero_ack="purple"  />
+  <table id="10" addOrder="[18,18,18]" allOrder="[90,90,90]" name="紫3" ack="frame_head_10" hero_ack="purple"  />
+  <table id="11" addOrder="[20,20,20]" allOrder="[110,110,110]" name="金" ack="frame_head_11" hero_ack="yellow"  />
+  <table id="12" addOrder="[22,22,22]" allOrder="[132,132,132]" name="金1" ack="frame_head_12" hero_ack="yellow"  />
+</ROOT>

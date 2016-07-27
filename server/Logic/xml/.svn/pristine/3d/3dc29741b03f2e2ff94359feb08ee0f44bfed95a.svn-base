@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ROOT>
+  <table id="1" sys_type="3" target_id="1001" target_name="克苏鲁" piece_id="11001" piece="20"  />
+  <table id="2" sys_type="3" target_id="1002" target_name="邪神2" piece_id="11002" piece="30"  />
+  <table id="3" sys_type="3" target_id="1003" target_name="邪神3" piece_id="11003" piece="20"  />
+  <table id="4" sys_type="3" target_id="1004" target_name="邪神4" piece_id="11004" piece="30"  />
+</ROOT>

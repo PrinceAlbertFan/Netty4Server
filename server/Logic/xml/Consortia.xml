@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ROOT>
+  <table LV="1" EXP="1500" member="30"  />
+  <table LV="2" EXP="5300" member="32"  />
+  <table LV="3" EXP="12500" member="40"  />
+  <table LV="4" EXP="24200" member="45"  />
+  <table LV="5" EXP="41700" member="50"  />
+  <table LV="6" EXP="66400" member="52"  />
+  <table LV="7" EXP="100400" member="54"  />
+  <table LV="8" EXP="145600" member="56"  />
+  <table LV="9" EXP="204100" member="58"  />
+  <table LV="10" EXP="279100" member="60"  />
+  <table LV="11" EXP="373200" member="62"  />
+  <table LV="12" EXP="484300" member="64"  />
+  <table LV="13" EXP="614100" member="66"  />
+  <table LV="14" EXP="764300" member="68"  />
+  <table LV="15" EXP="936800" member="70"  />
+  <table LV="16" EXP="1133300" member="72"  />
+  <table LV="17" EXP="1353900" member="74"  />
+  <table LV="18" EXP="1600200" member="76"  />
+  <table LV="19" EXP="1873800" member="78"  />
+  <table LV="20" EXP="2176300" member="80"  />
+  <table LV="21" EXP="2509300" member="82"  />
+  <table LV="22" EXP="2874600" member="84"  />
+  <table LV="23" EXP="3273800" member="86"  />
+  <table LV="24" EXP="3708800" member="88"  />
+  <table LV="25" EXP="4181300" member="90"  />
+  <table LV="26" EXP="4693100" member="92"  />
+  <table LV="27" EXP="5246000" member="94"  />
+  <table LV="28" EXP="5841900" member="96"  />
+  <table LV="29" EXP="6482800" member="98"  />
+  <table LV="30" EXP="1" member="100"  />
+</ROOT>

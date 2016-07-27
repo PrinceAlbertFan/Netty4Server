@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ROOT>
+  <table id="1001" name="克苏鲁" start_skill="0" start_star="0" max_anger="5000" pic="1" des="      异世界飞来地球的邪神，克苏鲁属于旧日支配者之一，“火风土水”四大派系旧支配者中的水属性神，远在人类文明诞生之前便寄居在地球上，由于不明的原因而陷入沉眠。因此她沉睡于南太平洋的海底都市拉莱耶中，透过心电感应与外界沟通，等待复苏的那一刻重新奴役地球生物。" model="Prefab_1001" avatar1="god_icon_1001" avatar2="god_icon_1001_1" model2="Prefab_1001_UI" open="1"  />
+  <table id="1002" name="测试女神" start_skill="0" start_star="0" max_anger="5000" pic="1" des="      异世界飞来地球的邪神，克苏鲁属于旧日支配者之一，“火风土水”四大派系旧支配者中的火属性神，远在人类文明诞生之前便寄居在地球上，由于不明的原因而陷入沉眠。因此她沉睡于南太平洋的海底都市拉莱耶中，透过心电感应与外界沟通，等待复苏的那一刻重新奴役地球生物。" model="Prefab_101" avatar1="god_icon_1001" avatar2="god_icon_1001_1" model2="Prefab_1001_UI" open="1"  />
+  <table id="1003" name="邪神3" start_skill="0" start_star="0" max_anger="5000" pic="1" des="邪神简介3" model="Prefab_0" avatar1="god_icon_1001" avatar2="god_icon_1001_1" model2="Prefab_0" open="0"  />
+  <table id="1004" name="邪神4" start_skill="0" start_star="0" max_anger="5000" pic="1" des="邪神简介4" model="Prefab_0" avatar1="god_icon_1001" avatar2="god_icon_1001_1" model2="Prefab_0" open="0"  />
+</ROOT>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ROOT>
+  <table id="1" model="prefabs/BattleWorld/Bullet/kelousheshou_1_bullet_1" speed="10" dec="测试用-子弹"  />
+  <table id="2" model="prefabs/BattleWorld/Effect/dumannvyao_1_loop_1" speed="99" dec="测试用-直接生效"  />
+  <table id="2041" model="prefabs/BattleWorld/Bullet/houyi_1_bullet_1" speed="10" dec="后羿-火箭"  />
+  <table id="2042" model="prefabs/BattleWorld/Bullet/houyi_0_bullet_1" speed="10" dec="后羿-火箭"  />
+  <table id="2043" model="prefabs/BattleWorld/Bullet/houyi_2_bullet_1" speed="10" dec="后羿-火箭"  />
+  <table id="3011" model="prefabs/BattleWorld/Bullet/diaochan_1_bullet_1" speed="7" dec="貂蝉-火扇子"  />
+  <table id="3012" model="prefabs/BattleWorld/Bullet/diaochan_2_bullet_1" speed="8" dec="貂蝉-火扇子"  />
+  <table id="3013" model="prefabs/BattleWorld/Bullet/diaochan_3_bullet_1" speed="8" dec="貂蝉-火扇子"  />
+  <table id="3041" model="prefabs/BattleWorld/Bullet/falaowang_1_bullet_1" speed="7" dec="法老王-火骷髅"  />
+  <table id="3042" model="prefabs/BattleWorld/Bullet/falaowang_0_bullet_1" speed="7" dec="法老王-火骷髅"  />
+  <table id="3043" model="prefabs/BattleWorld/Bullet/falaowang_2_bullet_1" speed="6" dec="法老王-小火苗"  />
+  <table id="3071" model="prefabs/BattleWorld/Bullet/hanlun_1_bullet_1" speed="10" dec="海伦-冰球"  />
+  <table id="3074" model="prefabs/BattleWorld/Bullet/hanlun_0_bullet_1" speed="10" dec="海伦-爱心"  />
+  <table id="200021" model="prefabs/BattleWorld/Bullet/shixiangmoou_1_bullet_1" speed="8" dec="巨石魔偶-冰球"  />
+  <table id="200022" model="prefabs/BattleWorld/Bullet/shixiangmoou_0_bullet_1" speed="8" dec="巨石魔偶-冰球"  />
+  <table id="200031" model="prefabs/BattleWorld/Bullet/kelousheshou_1_bullet_1" speed="11" dec="骷髅射手-小火箭"  />
+  <table id="200061" model="prefabs/BattleWorld/Bullet/dieyao_1_bullet_1" speed="10" dec="妖蝶-普通攻击"  />
+  <table id="200091" model="prefabs/BattleWorld/Bullet/nibaguai_attack_feixing" speed="6" dec="泥巴怪-普通攻击"  />
+  <table id="200141" model="prefabs/BattleWorld/Bullet/huoyuansu_0_bullet_1" speed="10" dec="火元素-普通攻击"  />
+  <table id="210011" model="prefabs/BattleWorld/Bullet/kesulu_2_bullet_1" speed="7" dec="克苏鲁-龙卷风"  />
+  <table id="210031" model="prefabs/BattleWorld/Effect/dumannvyao_2_loop_1" speed="99" dec="毒蔓女妖-技能-毒"  />
+  <table id="210032" model="prefabs/BattleWorld/Bullet/dumannvyao_0_bullet_1" speed="10" dec="毒蔓女妖-小毒团"  />
+</ROOT>

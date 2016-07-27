@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ROOT>
+  <table id="3" name="力量成长" desc="力量成长"  />
+  <table id="4" name="智力成长" desc="智力成长"  />
+  <table id="5" name="敏捷成长" desc="敏捷成长"  />
+  <table id="6" name="移动速度" desc="移动速度"  />
+  <table id="7" name="攻击距离" desc="攻击距离"  />
+  <table id="8" name="力量" desc="力量"  />
+  <table id="9" name="智力" desc="智力"  />
+  <table id="10" name="敏捷" desc="敏捷"  />
+  <table id="11" name="最大生命值" desc="最大生命值"  />
+  <table id="12" name="物理攻击力" desc="物理攻击力"  />
+  <table id="13" name="魔法强度" desc="魔法强度"  />
+  <table id="14" name="物理护甲" desc="物理护甲"  />
+  <table id="15" name="魔法抗性" desc="魔法抗性"  />
+  <table id="16" name="物理暴击" desc="物理暴击"  />
+  <table id="17" name="魔法暴击" desc="魔法暴击"  />
+  <table id="18" name="生命回复" desc="生命回复"  />
+  <table id="19" name="能量回复" desc="能量回复"  />
+  <table id="20" name="闪避" desc="闪避"  />
+  <table id="21" name="穿透物理护甲" desc="穿透物理护甲"  />
+  <table id="22" name="忽视魔法抗性" desc="忽视魔法抗性"  />
+  <table id="23" name="吸血" desc="吸血"  />
+  <table id="24" name="能量消耗降低" desc="能量消耗降低"  />
+  <table id="25" name="治疗技能效果提高" desc="治疗技能效果提高"  />
+  <table id="26" name="提升技能等级" desc="提升技能等级"  />
+  <table id="27" name="抵抗沉默几率" desc="抵抗沉默几率"  />
+  <table id="28" name="命中" desc="命中"  />
+  <table id="29" name="物理伤害免疫" desc="物理伤害免疫"  />
+  <table id="30" name="魔法伤害免疫" desc="魔法伤害免疫"  />
+  <table id="40" name="攻击速度" desc="攻击速度"  />
+</ROOT>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ROOT>
+  <table id="1" chapter_name1="第01章" chapter_name2="守护王国" chapter_icon="chapter_icon_001" star_need_1="8" star_reward_1="1,11001,5" star_need_2="18" star_reward_2="1,11001,10" star_need_3="27" star_reward_3="1,11001,15"  />
+  <table id="2" chapter_name1="第02章" chapter_name2="圣灵深林" chapter_icon="chapter_icon_002" star_need_1="8" star_reward_1="1,11001,5" star_need_2="18" star_reward_2="1,11001,10" star_need_3="27" star_reward_3="1,11001,15"  />
+  <table id="3" chapter_name1="第03章" chapter_name2="堕落沼泽" chapter_icon="chapter_icon_003" star_need_1="8" star_reward_1="1,11001,5" star_need_2="18" star_reward_2="1,11001,10" star_need_3="27" star_reward_3="1,11001,15"  />
+  <table id="4" chapter_name1="第04章" chapter_name2="遗忘群岛" chapter_icon="chapter_icon_004" star_need_1="8" star_reward_1="1,11001,5" star_need_2="18" star_reward_2="1,11001,10" star_need_3="27" star_reward_3="1,11001,15"  />
+  <table id="5" chapter_name1="第05章" chapter_name2="死神沙漠" chapter_icon="chapter_icon_005" star_need_1="8" star_reward_1="1,11001,5" star_need_2="18" star_reward_2="1,11001,10" star_need_3="27" star_reward_3="1,11001,15"  />
+  <table id="6" chapter_name1="第06章" chapter_name2="绝境山谷" chapter_icon="chapter_icon_006" star_need_1="8" star_reward_1="1,11001,5" star_need_2="18" star_reward_2="1,11001,10" star_need_3="27" star_reward_3="1,11001,15"  />
+  <table id="7" chapter_name1="第07章" chapter_name2="无尽冰原" chapter_icon="chapter_icon_007" star_need_1="8" star_reward_1="1,11001,5" star_need_2="18" star_reward_2="1,11001,10" star_need_3="27" star_reward_3="1,11001,15"  />
+  <table id="8" chapter_name1="第08章" chapter_name2="诅咒荒原" chapter_icon="chapter_icon_008" star_need_1="8" star_reward_1="1,11001,5" star_need_2="18" star_reward_2="1,11001,10" star_need_3="27" star_reward_3="1,11001,15"  />
+  <table id="9" chapter_name1="第09章" chapter_name2="西部半岛" chapter_icon="chapter_icon_009" star_need_1="8" star_reward_1="1,11001,5" star_need_2="18" star_reward_2="1,11001,10" star_need_3="27" star_reward_3="1,11001,15"  />
+  <table id="10" chapter_name1="第10章" chapter_name2="末日墓地" chapter_icon="chapter_icon_010" star_need_1="8" star_reward_1="1,11001,5" star_need_2="18" star_reward_2="1,11001,10" star_need_3="27" star_reward_3="1,11001,15"  />
+  <table id="11" chapter_name1="第11章" chapter_name2="东部港口" chapter_icon="chapter_icon_011" star_need_1="8" star_reward_1="1,11001,5" star_need_2="18" star_reward_2="1,11001,10" star_need_3="27" star_reward_3="1,11001,15"  />
+  <table id="12" chapter_name1="第12章" chapter_name2="炼狱之地" chapter_icon="chapter_icon_012" star_need_1="8" star_reward_1="1,11001,5" star_need_2="18" star_reward_2="1,11001,10" star_need_3="27" star_reward_3="1,11001,15"  />
+  <table id="101" chapter_name1="#" chapter_name2="深渊BOSS" chapter_icon="chapter_icon_006" star_need_1="#" star_reward_1="#" star_need_2="#" star_reward_2="#" star_need_3="#" star_reward_3="#"  />
+  <table id="102" chapter_name1="#" chapter_name2="时空远征" chapter_icon="chapter_icon_012" star_need_1="#" star_reward_1="#" star_need_2="#" star_reward_2="#" star_need_3="#" star_reward_3="#"  />
+  <table id="103" chapter_name1="#" chapter_name2="海底宝藏" chapter_icon="chapter_icon_004" star_need_1="#" star_reward_1="#" star_need_2="#" star_reward_2="#" star_need_3="#" star_reward_3="#"  />
+</ROOT>

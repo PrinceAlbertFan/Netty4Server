@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ROOT>
+  <table id="1001" name="克苏鲁" start_skill="0" start_star="0" max_anger="5000" pic="1" des="      异世界飞来地球的邪神，克苏鲁属于旧日支配者之一，“火风土水”四大派系旧支配者中的水属性神，远在人类文明诞生之前便寄居在地球上，由于不明的原因而陷入沉眠。因此她沉睡于南太平洋的海底都市拉莱耶中，透过心电感应与外界沟通，等待复苏的那一刻重新奴役地球生物。" model="Prefab_1001" avatar1="god_icon_1001" avatar2="god_icon_1001_1" model2="Prefab_1001_UI" open="1"  />
+  <table id="1002" name="炼狱魔女" start_skill="0" start_star="0" max_anger="4500" pic="1" des="      炼狱魔女居住在距离地球25光年的北落师门，人类可以将她召唤出来，必须在当夜晚北落师门星升到树梢的时候，连续呼喊三遍咒语。召唤成功后，炼狱魔女便会回应威胁之人的要求，统帅麾下数千炎之精出现在地球上。但这对召唤者而言是极其危险的，因为克图格亚出现的地方会立即发生强烈爆炸，恐怖的高温和火焰将会造成一场不分敌我的大破坏。" model="Prefab_1002" avatar1="god_icon_1002" avatar2="god_icon_1002_1" model2="Prefab_1002_UI" open="1"  />
+</ROOT>

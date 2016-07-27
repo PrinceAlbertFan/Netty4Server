@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ROOT>
+  <table id="1" dexc="摸头" type_key="touch_head" text="你真好~~谢谢" voice="hero_lvlup" Expression_icon="happy3"  />
+  <table id="2" dexc="摸头" type_key="touch_head" text="我会乖乖的哦" voice="hero_lvlup" Expression_icon="happy2"  />
+  <table id="3" dexc="摸头" type_key="touch_head" text="谢谢队长的鼓励~~" voice="hero_star" Expression_icon="happy1"  />
+  <table id="4" dexc="摸头" type_key="touch_head" text="不可以摸头~~人家会长不高呢" voice="hero_star" Expression_icon="happy2"  />
+  <table id="5" dexc="摸头" type_key="touch_head" text="人家好喜欢呢~~喵~~" voice="hero_star" Expression_icon="happy1"  />
+  <table id="6" dexc="摸头" type_key="touch_head" text="摸摸头~蹭蹭你~嘻嘻" voice="hero_star" Expression_icon="happy3"  />
+  <table id="7" dexc="摸头" type_key="touch_head" text="人家才不是小宠物呢~人家是你的暖心宝捏" voice="hero_star" Expression_icon="happy1"  />
+  <table id="8" dexc="摸头" type_key="touch_head" text="你要去征战~~带着我嘛~~" voice="hero_star" Expression_icon="happy2"  />
+  <table id="9" dexc="摸头" type_key="touch_head" text="回来啦(≧▽≦)人家等好久了捏" voice="hero_star" Expression_icon="happy2"  />
+  <table id="10" dexc="摸头" type_key="touch_head" text="战斗的时候人家会给你爱的波浪线哟" voice="hero_star" Expression_icon="happy1"  />
+  <table id="11" dexc="摸胸" type_key="touch_chest" text="不要嘛~~" voice="hero_lvlup" Expression_icon="happy2"  />
+  <table id="12" dexc="摸胸" type_key="touch_chest" text="讨厌，快去征服这个大陆吧" voice="hero_star" Expression_icon="sad1"  />
+  <table id="13" dexc="摸胸" type_key="touch_chest" text="再摸我，我就生气了" voice="hero_star" Expression_icon="sad2"  />
+  <table id="14" dexc="摸胸" type_key="touch_chest" text="我真的生气，你战斗我也不帮你了" voice="hero_star" Expression_icon="sad1"  />
+  <table id="15" dexc="摸胸" type_key="touch_chest" text="正经点，等晚上12点再来" voice="hero_lvlup" Expression_icon="sad2"  />
+  <table id="16" dexc="摸胸" type_key="touch_chest" text="再摸~~我就喊人啦~" voice="hero_lvlup" Expression_icon="sad3"  />
+  <table id="17" dexc="摸胸" type_key="touch_chest" text="嘤嘤嘤~~你坏" voice="hero_lvlup" Expression_icon="sad1"  />
+  <table id="18" dexc="摸胸" type_key="touch_chest" text="童颜巨嗯~~是不是就是我这样子啊" voice="hero_lvlup" Expression_icon="happy2"  />
+  <table id="19" dexc="摸胸" type_key="touch_chest" text="我看见你的口水啦~~哈哈哈" voice="hero_lvlup" Expression_icon="sad1"  />
+  <table id="20" dexc="摸胸" type_key="touch_chest" text="我和貂蝉妹妹谁更大呢？！！" voice="hero_lvlup" Expression_icon="sad2"  />
+  <table id="21" dexc="摸下体" type_key="touch_nakedness" text="现在不可以，70级后我再考虑考虑" voice="hero_star" Expression_icon="normal"  />
+  <table id="22" dexc="摸下体" type_key="touch_nakedness" text="你太坏了，最近天气冷，也不给我买点时装" voice="hero_star" Expression_icon="sad2"  />
+  <table id="23" dexc="摸下体" type_key="touch_nakedness" text="不可以的~现在还早" voice="hero_star" Expression_icon="sad3"  />
+  <table id="24" dexc="摸下体" type_key="touch_nakedness" text="恩~~怎么可以这样" voice="hero_star" Expression_icon="sad1"  />
+  <table id="25" dexc="摸下体" type_key="touch_nakedness" text="你看着我的眼睛，怎么可以~~" voice="hero_star" Expression_icon="sad2"  />
+  <table id="26" dexc="摸下体" type_key="touch_nakedness" text="别闹，还有别人在呢~~" voice="hero_star" Expression_icon="sad1"  />
+  <table id="27" dexc="摸下体" type_key="touch_nakedness" text="哼~~你不是喜欢貂蝉妹妹的么" voice="hero_star" Expression_icon="sad2"  />
+  <table id="28" dexc="摸下体" type_key="touch_nakedness" text="再动手，我就不帮你战斗啦~~" voice="hero_star" Expression_icon="sad1"  />
+  <table id="29" dexc="摸下体" type_key="touch_nakedness" text="啊~不要~~快用力" voice="hero_star" Expression_icon="sad3"  />
+  <table id="30" dexc="摸大腿" type_key="touch_leg" text="我新买的丝袜，不要弄坏了" voice="hero_lvlup" Expression_icon="sad1"  />
+  <table id="31" dexc="摸大腿" type_key="touch_leg" text="等你竞技场排名第1名，再来碰我，要不休想" voice="hero_lvlup" Expression_icon="sad2"  />
+  <table id="32" dexc="摸大腿" type_key="touch_leg" text="人家还小呢~~等我长大的" voice="hero_lvlup" Expression_icon="happy1"  />
+  <table id="33" dexc="摸大腿" type_key="touch_leg" text="是不是很细腻呢~" voice="hero_lvlup" Expression_icon="happy2"  />
+  <table id="34" dexc="摸大腿" type_key="touch_leg" text="这条都穿好久了，你也不说给人家买新的" voice="hero_lvlup" Expression_icon="happy3"  />
+  <table id="35" dexc="摸大腿" type_key="touch_leg" text="什么时候我可以跟你一起上战场呢" voice="hero_lvlup" Expression_icon="happy1"  />
+  <table id="36" dexc="摸大腿" type_key="touch_leg" text="你看都红了~~不要摸啦" voice="hero_lvlup" Expression_icon="happy2"  />
+  <table id="37" dexc="摸大腿" type_key="touch_leg" text="讨厌~你昨天是不是去找海伦啦" voice="hero_lvlup" Expression_icon="happy3"  />
+  <table id="38" dexc="摸大腿" type_key="touch_leg" text="哼~~你就不能对人家温柔一点么" voice="hero_lvlup" Expression_icon="happy1"  />
+  <table id="39" dexc="摸大腿" type_key="touch_leg" text="哎呀~你这样人家怎么跟你去征战" voice="hero_lvlup" Expression_icon="happy2"  />
+  <table id="1001" dexc="有好友申请" type_key="friend_requests" text="队长您有好友申请，快去添加好友一起战斗！" voice="hero_star" Expression_icon="normal3"  />
+  <table id="1002" dexc="任务奖励" type_key="Quest_rewards" text="完成任务后，记得领取奖励哦！" voice="hero_lvlup" Expression_icon="normal1"  />
+  <table id="1003" dexc="PVP战败" type_key="PVP_defeat" text="竞技场中被别人打败了，快去帮我报仇！" voice="hero_star" Expression_icon="normal3"  />
+</ROOT>

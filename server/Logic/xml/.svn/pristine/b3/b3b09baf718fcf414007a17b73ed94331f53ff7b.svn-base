@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ROOT>
+  <table hero_id="1" skill_type="1" skill_id="100011" dongzuo_id="2" skill_name="普通攻击" skill_icon="#" skill_des="#"  />
+  <table hero_id="1" skill_type="0" skill_id="100011" dongzuo_id="6" skill_name="能量大招" skill_icon="#" skill_des="#"  />
+  <table hero_id="2" skill_type="1" skill_id="100021" dongzuo_id="2" skill_name="普通攻击" skill_icon="#" skill_des="#"  />
+  <table hero_id="2" skill_type="0" skill_id="100021" dongzuo_id="6" skill_name="能量大招" skill_icon="#" skill_des="#"  />
+  <table hero_id="3" skill_type="1" skill_id="100031" dongzuo_id="2" skill_name="普通攻击" skill_icon="#" skill_des="#"  />
+  <table hero_id="3" skill_type="0" skill_id="100031" dongzuo_id="6" skill_name="能量大招" skill_icon="#" skill_des="#"  />
+  <table hero_id="4" skill_type="1" skill_id="100041" dongzuo_id="2" skill_name="普通攻击" skill_icon="#" skill_des="#"  />
+  <table hero_id="4" skill_type="0" skill_id="100041" dongzuo_id="6" skill_name="普通攻击" skill_icon="#" skill_des="#"  />
+  <table hero_id="5" skill_type="1" skill_id="100051" dongzuo_id="2" skill_name="普通攻击" skill_icon="#" skill_des="#"  />
+  <table hero_id="5" skill_type="0" skill_id="100051" dongzuo_id="6" skill_name="能量大招" skill_icon="#" skill_des="#"  />
+  <table hero_id="6" skill_type="1" skill_id="100061" dongzuo_id="2" skill_name="普通攻击" skill_icon="#" skill_des="#"  />
+  <table hero_id="6" skill_type="0" skill_id="100061" dongzuo_id="6" skill_name="能量大招" skill_icon="#" skill_des="#"  />
+  <table hero_id="6" skill_type="2" skill_id="100062" dongzuo_id="6" skill_name="加血" skill_icon="#" skill_des="#"  />
+  <table hero_id="1001" skill_type="1" skill_id="110011" dongzuo_id="2" skill_name="普通攻击" skill_icon="#" skill_des="#"  />
+  <table hero_id="1001" skill_type="0" skill_id="110013" dongzuo_id="7" skill_name="狂暴-翅膀免疫" skill_icon="#" skill_des="#"  />
+  <table hero_id="1001" skill_type="2" skill_id="110012" dongzuo_id="6;8" skill_name="AOE魔法伤害" skill_icon="#" skill_des="#"  />
+  <table hero_id="1001" skill_type="3" skill_id="110014" dongzuo_id="8" skill_name="狂暴-伤害" skill_icon="#" skill_des="#"  />
+  <table hero_id="1002" skill_type="1" skill_id="110021" dongzuo_id="2" skill_name="普通攻击" skill_icon="#" skill_des="#"  />
+  <table hero_id="1002" skill_type="0" skill_id="110024" dongzuo_id="6" skill_name="狂暴召唤" skill_icon="#" skill_des="#"  />
+  <table hero_id="1002" skill_type="2" skill_id="110022" dongzuo_id="7" skill_name="（AOE魔法伤害）" skill_icon="#" skill_des="#"  />
+  <table hero_id="1002" skill_type="3" skill_id="110023" dongzuo_id="6" skill_name="普通召唤" skill_icon="#" skill_des="#"  />
+  <table hero_id="1003" skill_type="1" skill_id="110031" dongzuo_id="2" skill_name="普通攻击" skill_icon="#" skill_des="#"  />
+  <table hero_id="1003" skill_type="0" skill_id="110031" dongzuo_id="6" skill_name="能量大招" skill_icon="#" skill_des="#"  />
+  <table hero_id="1003" skill_type="2" skill_id="110032" dongzuo_id="6" skill_name="晕毒" skill_icon="#" skill_des="#"  />
+  <table hero_id="2001" skill_type="1" skill_id="110031" dongzuo_id="2" skill_name="沼泽巨1" skill_icon="skill_icon_3070" skill_des="一段时间内使全体回复数次生命值"  />
+  <table hero_id="2001" skill_type="2" skill_id="110031" dongzuo_id="6" skill_name="沼泽巨2" skill_icon="skill_icon_3072" skill_des="释放一个法球，对敌方单体造成魔法伤害"  />
+  <table hero_id="2001" skill_type="3" skill_id="110032" dongzuo_id="7" skill_name="沼泽巨3" skill_icon="skill_icon_3073" skill_des="离间一个敌人，使其攻击队友"  />
+  <table hero_id="2001" skill_type="4" skill_id="110032" dongzuo_id="8" skill_name="沼泽巨4" skill_icon="skill_icon_3074" skill_des="短时间为最虚弱的队友提升物防法防"  />
+  <table hero_id="2002" skill_type="1" skill_id="110031" dongzuo_id="2" skill_name="熔岩巨1" skill_icon="skill_icon_3070" skill_des="一段时间内使全体回复数次生命值"  />
+  <table hero_id="2002" skill_type="2" skill_id="110031" dongzuo_id="6" skill_name="熔岩巨2" skill_icon="skill_icon_3072" skill_des="释放一个法球，对敌方单体造成魔法伤害"  />
+  <table hero_id="2002" skill_type="3" skill_id="110032" dongzuo_id="7" skill_name="熔岩巨3" skill_icon="skill_icon_3073" skill_des="离间一个敌人，使其攻击队友"  />
+  <table hero_id="2002" skill_type="4" skill_id="110032" dongzuo_id="8" skill_name="熔岩巨4" skill_icon="skill_icon_3074" skill_des="短时间为最虚弱的队友提升物防法防"  />
+  <table hero_id="2003" skill_type="1" skill_id="110031" dongzuo_id="2" skill_name="沼泽巨1" skill_icon="skill_icon_3070" skill_des="一段时间内使全体回复数次生命值"  />
+  <table hero_id="2003" skill_type="2" skill_id="110031" dongzuo_id="6" skill_name="沼泽巨2" skill_icon="skill_icon_3072" skill_des="释放一个法球，对敌方单体造成魔法伤害"  />
+  <table hero_id="2003" skill_type="3" skill_id="110032" dongzuo_id="7" skill_name="沼泽巨3" skill_icon="skill_icon_3073" skill_des="离间一个敌人，使其攻击队友"  />
+  <table hero_id="2003" skill_type="4" skill_id="110032" dongzuo_id="8" skill_name="沼泽巨4" skill_icon="skill_icon_3074" skill_des="短时间为最虚弱的队友提升物防法防"  />
+  <table hero_id="2004" skill_type="1" skill_id="110031" dongzuo_id="2" skill_name="熔岩巨1" skill_icon="skill_icon_3070" skill_des="一段时间内使全体回复数次生命值"  />
+  <table hero_id="2004" skill_type="2" skill_id="110031" dongzuo_id="6" skill_name="熔岩巨2" skill_icon="skill_icon_3072" skill_des="释放一个法球，对敌方单体造成魔法伤害"  />
+  <table hero_id="2004" skill_type="3" skill_id="110032" dongzuo_id="7" skill_name="熔岩巨3" skill_icon="skill_icon_3073" skill_des="离间一个敌人，使其攻击队友"  />
+  <table hero_id="2004" skill_type="4" skill_id="110032" dongzuo_id="8" skill_name="熔岩巨4" skill_icon="skill_icon_3074" skill_des="短时间为最虚弱的队友提升物防法防"  />
+  <table hero_id="0111" skill_type="4" skill_id="110032" dongzuo_id="8" skill_name="熔岩巨4" skill_icon="skill_icon_3074" skill_des="短时间为最虚弱的队友提升物防法防"  />
+</ROOT>

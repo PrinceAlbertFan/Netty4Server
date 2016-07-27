@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ROOT>
+  <table id="1" point_name="黄铜I" point="0" point_icon="PK_online_1"  />
+  <table id="2" point_name="黄铜II" point="500" point_icon="PK_online_2"  />
+  <table id="3" point_name="黄铜III" point="1000" point_icon="PK_online_3"  />
+  <table id="4" point_name="白银I" point="1050" point_icon="PK_online_4"  />
+  <table id="5" point_name="白银II" point="1150" point_icon="PK_online_5"  />
+  <table id="6" point_name="白银III" point="1250" point_icon="PK_online_6"  />
+  <table id="7" point_name="黄金I" point="1350" point_icon="PK_online_7"  />
+  <table id="8" point_name="黄金II" point="1450" point_icon="PK_online_8"  />
+  <table id="9" point_name="黄金III" point="1650" point_icon="PK_online_9"  />
+  <table id="10" point_name="铂金I" point="1750" point_icon="PK_online_10"  />
+  <table id="11" point_name="铂金II" point="1850" point_icon="PK_online_11"  />
+  <table id="12" point_name="铂金III" point="1950" point_icon="PK_online_12"  />
+  <table id="13" point_name="钻石I" point="2000" point_icon="PK_online_13"  />
+  <table id="14" point_name="钻石II" point="2150" point_icon="PK_online_14"  />
+  <table id="15" point_name="钻石III" point="2250" point_icon="PK_online_15"  />
+</ROOT>
